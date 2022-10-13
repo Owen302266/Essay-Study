@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "A Brief Introduction to Machine Learning for Engineers.md",
+            "file": "Day Planners/Day Planner-20221013.md",
             "mode": "source",
             "source": false
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Day Planners/Day Planner-20221013.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Day Planners/Day Planner-20221013.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers.md"
+                "file": "Day Planners/Day Planner-20221013.md"
               }
             }
           },
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -154,8 +154,8 @@
   },
   "active": "f64cf20464e42486",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20221013.md",
     "A Brief Introduction to Machine Learning for Engineers.md",
+    "Day Planners/Day Planner-20221013.md",
     "README.md"
   ]
 }
