@@ -6,26 +6,45 @@
       {
         "id": "1c60abc6d8abc195",
         "type": "leaf",
-        "dimension": 55.907780979827095,
+        "dimension": 53.478491768454596,
         "state": {
           "type": "pdf",
           "state": {
-            "file": "A Brief Introduction to Machine Learning for Engineers.pdf"
+            "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
           }
         }
       },
       {
-        "id": "c74ce5fabd152a4f",
-        "type": "leaf",
-        "dimension": 44.09221902017291,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "A Brief Introduction to Machine Learning for Engineers.md",
-            "mode": "source",
-            "source": false
+        "id": "a89845ccd674c953",
+        "type": "split",
+        "dimension": 46.521508231545404,
+        "children": [
+          {
+            "id": "c74ce5fabd152a4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "20384c0adb976560",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -97,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers.md"
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
               }
             }
           },
@@ -162,13 +181,12 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "c74ce5fabd152a4f",
+  "active": "0537b5b61075e3af",
   "lastOpenFiles": [
-    "A Brief Introduction to Machine Learning for Engineers.pdf",
-    "A Brief Introduction to Machine Learning for Engineers.md",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Day Planners/Day Planner-20221014.md",
     "未命名.md",
     "README.md",
