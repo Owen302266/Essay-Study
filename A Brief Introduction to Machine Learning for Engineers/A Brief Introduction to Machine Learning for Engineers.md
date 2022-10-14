@@ -3,7 +3,7 @@
 
 ## Notions
 
-==**|S|** :represents the cardinality of a set S.==
+==|S| :represents the cardinality of a set S.==
 
 ## Acronyms
 
