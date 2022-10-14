@@ -162,9 +162,10 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "7fd7244aca68e90c",
+  "active": "c74ce5fabd152a4f",
   "lastOpenFiles": [
     "A Brief Introduction to Machine Learning for Engineers.pdf",
     "A Brief Introduction to Machine Learning for Engineers.md",
