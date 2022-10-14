@@ -6,9 +6,25 @@
       {
         "id": "1c60abc6d8abc195",
         "type": "leaf",
+        "dimension": 55.907780979827095,
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "pdf",
+          "state": {
+            "file": "A Brief Introduction to Machine Learning for Engineers.pdf"
+          }
+        }
+      },
+      {
+        "id": "c74ce5fabd152a4f",
+        "type": "leaf",
+        "dimension": 44.09221902017291,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "A Brief Introduction to Machine Learning for Engineers.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -81,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers.md"
+              }
             }
           },
           {
@@ -138,18 +158,19 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "0537b5b61075e3af",
+  "active": "7fd7244aca68e90c",
   "lastOpenFiles": [
+    "A Brief Introduction to Machine Learning for Engineers.pdf",
     "A Brief Introduction to Machine Learning for Engineers.md",
-    "README.md",
-    "未命名.md",
     "Day Planners/Day Planner-20221014.md",
+    "未命名.md",
+    "README.md",
     "2022-10-14.md",
     "Day Planners/Day Planner-20221013.md"
   ]

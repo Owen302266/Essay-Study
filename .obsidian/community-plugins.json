@@ -2,7 +2,6 @@
   "obsidian-tasks-plugin",
   "obsidian-mind-map",
   "dataview",
-  "table-editor-obsidian",
   "obsidian-kanban",
   "calendar",
   "templater-obsidian",
@@ -20,5 +19,6 @@
   "obsidian-annotator",
   "media-extended",
   "obsidian-charts",
-  "obsidian-codemirror-options"
+  "obsidian-codemirror-options",
+  "table-editor-obsidian"
 ]

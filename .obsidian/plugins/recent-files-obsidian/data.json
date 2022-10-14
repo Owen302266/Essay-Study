@@ -5,12 +5,16 @@
       "path": "A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
-      "basename": "README",
-      "path": "README.md"
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers.pdf"
     },
     {
       "basename": "Day Planner-20221014",
       "path": "Day Planners/Day Planner-20221014.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     }
   ],
   "omittedPaths": [],
