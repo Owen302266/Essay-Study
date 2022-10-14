@@ -48,3 +48,5 @@
 | VC     | Vapnik–Chervonenkis                                         |
 | VI     | Variational Inference                                       |
 ## Basic
+	Rather than requiring a precise model of the set-up under study, machine learning requires the speciﬁcation of an objective, of a model to be trained, and of an optimization technique.
+
