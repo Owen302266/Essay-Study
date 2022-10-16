@@ -64,5 +64,17 @@ the approach has the key disadvantages of providing generally suboptimal perform
 
 *focus on training and computational statistics tools*
 #### tasks
-1. supervised learning
-2. 
+1. **supervised learning** : 
+	classification and regression probelms
+	output : deterministic predictive function
+2. **Unsupervised learning** :
+	clustering, dimensionality reduction, feature extraction and representation learning
+**semi-supervise learning** : not all the examples are labelled
+3.  **reinforce learning** :
+	infer optimal sequential decisions based on rewards or punishments received as a result of previous actions
+other classify methods:
+|
+
+
+
+
