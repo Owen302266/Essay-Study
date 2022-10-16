@@ -64,4 +64,5 @@ the approach has the key disadvantages of providing generally suboptimal perform
 
 *focus on training and computational statistics tools*
 #### tasks
-
+1. supervised learning
+2. 
