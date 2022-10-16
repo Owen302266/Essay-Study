@@ -1,0 +1,230 @@
+{
+  "main": {
+    "id": "57b0baa06d2be0ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7ef63efba03a1fe",
+        "type": "tabs",
+        "dimension": 53.478491768454596,
+        "children": [
+          {
+            "id": "1c60abc6d8abc195",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a89845ccd674c953",
+        "type": "split",
+        "dimension": 46.521508231545404,
+        "children": [
+          {
+            "id": "3ed90b3dff81f75a",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c74ce5fabd152a4f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "187fd0cc7f27ad60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20384c0adb976560",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Day Planners/Day Planner-20221014.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ee664daa607f9713",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.0.0"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "da09d720ec8c4362",
+    "type": "split",
+    "children": [
+      {
+        "id": "010930e9707ab5ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0537b5b61075e3af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a1a03cb678ad96ef",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "79c1fd06d379b631",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "7257f22b0aefd6dc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "13412fa35ca13ef4",
+    "type": "split",
+    "children": [
+      {
+        "id": "3282c109ed8f6830",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "adfe36d19c34b626",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd4cc98f620ad248",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "03c2e992e334e24e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0d13e05585b7c8d4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Day Planners/Day Planner-20221014.md"
+              }
+            }
+          },
+          {
+            "id": "c9605772a8c9b94e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7fd7244aca68e90c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "ee664daa607f9713",
+  "lastOpenFiles": [
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
+    "Day Planners/Day Planner-20221014.md",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+    "未命名.md",
+    "README.md",
+    "2022-10-14.md",
+    "Day Planners/Day Planner-20221013.md"
+  ]
+}
