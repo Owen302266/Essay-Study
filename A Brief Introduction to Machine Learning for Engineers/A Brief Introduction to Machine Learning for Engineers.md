@@ -72,8 +72,12 @@ the approach has the key disadvantages of providing generally suboptimal perform
 **semi-supervise learning** : not all the examples are labelled
 3.  **reinforce learning** :
 	infer optimal sequential decisions based on rewards or punishments received as a result of previous actions
-other classify methods:
-|
+**other classify methods:**
+	passive~active
+	offline~online
+#### goals
+
+
 
 
 
