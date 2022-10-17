@@ -76,7 +76,7 @@ the approach has the key disadvantages of providing generally suboptimal perform
 	passive~active
 	offline~online
 #### goals
-
+the importance of probability
 
 
 
