@@ -1,0 +1,1 @@
+one cannot learn rules that generalize to unseen examples without making assumptions about the mechanism generating the data.

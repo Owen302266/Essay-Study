@@ -37,7 +37,7 @@ the approach has the key disadvantages of providing generally suboptimal perform
 ### goals
 the importance of probability
 # Introduction through linear regression
-We start by introducing the problem of [[supervised learning]] and by presenting some background on inference. We then present the [[frequentist]], [[Bayesian]] and [[MDL learning approaches]] in this order. The treatment of MDL is limited to an introductory discussion, as the rest of monograph concentrates on frequentist and Bayesian viewpoints. We conclude with an introduction to the important topic of [[information-theoretic metrics]], and with a brief introduction to the advanced topics of [[causal inference and interpretation]].
+We start by introducing the problem of [[supervised learning]] and by presenting [[some background on inference]]. We then present the [[frequentist]], [[Bayesian]] and [[MDL learning approaches]] in this order. The treatment of MDL is limited to an introductory discussion, as the rest of monograph concentrates on frequentist and Bayesian viewpoints. We conclude with an introduction to the important topic of [[information-theoretic metrics]], and with a brief introduction to the advanced topics of [[causal inference and interpretation]].
 
 
 
