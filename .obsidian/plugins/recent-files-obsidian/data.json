@@ -1,16 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
-    },
-    {
-      "basename": "Day Planner-20221014",
-      "path": "Day Planners/Day Planner-20221014.md"
+      "basename": "supervised learning",
+      "path": "Concepts/supervised learning.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
+    },
+    {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
+      "basename": "causal inference and interpretation",
+      "path": "Concepts/causal inference and interpretation.md"
+    },
+    {
+      "basename": "Bayesian",
+      "path": "Concepts/Bayesian.md"
+    },
+    {
+      "basename": "frequentist",
+      "path": "Concepts/frequentist.md"
+    },
+    {
+      "basename": "Day Planner-20221014",
+      "path": "Day Planners/Day Planner-20221014.md"
     },
     {
       "basename": "Day Planner-20221016",

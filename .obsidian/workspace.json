@@ -42,8 +42,21 @@
                         "source": true
                       }
                     }
+                  },
+                  {
+                    "id": "2b5a12a08829e448",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Concepts/supervised learning.md",
+                        "mode": "source",
+                        "source": true
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "cae7ee94811ac7e4",
@@ -79,6 +92,7 @@
       {
         "id": "010930e9707ab5ed",
         "type": "tabs",
+        "dimension": 55.82922824302135,
         "children": [
           {
             "id": "0537b5b61075e3af",
@@ -122,6 +136,21 @@
             }
           }
         ]
+      },
+      {
+        "id": "4e94b2e5697c3be2",
+        "type": "tabs",
+        "dimension": 44.17077175697865,
+        "children": [
+          {
+            "id": "7fd7244aca68e90c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -141,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Concepts/supervised learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Concepts/supervised learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
+                "file": "Concepts/supervised learning.md"
               }
             }
           },
@@ -192,17 +221,9 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "7fd7244aca68e90c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,15 +232,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0537b5b61075e3af",
+  "active": "2b5a12a08829e448",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20221014.md",
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/supervised learning.md",
+    "Concepts/Acronyms.md",
+    "Concepts/causal inference and interpretation.md",
+    "Concepts/Bayesian.md",
+    "Concepts/frequentist.md",
+    "Day Planners/Day Planner-20221014.md",
     "Day Planners/Day Planner-20221016.md",
-    "未命名.md",
-    "README.md",
-    "2022-10-14.md",
-    "Day Planners/Day Planner-20221013.md"
+    "未命名.md"
   ]
 }
