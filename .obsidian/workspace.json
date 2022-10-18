@@ -33,9 +33,21 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Concepts/inference background.md",
+                    "file": "Concepts/frequentist.md",
                     "mode": "source",
                     "source": true
+                  }
+                }
+              },
+              {
+                "id": "109d69dc23c50964",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/inference background.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -97,8 +109,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -133,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/inference background.md",
+                "file": "Concepts/frequentist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/inference background.md",
+                "file": "Concepts/frequentist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/inference background.md"
+                "file": "Concepts/frequentist.md"
               }
             }
           },
@@ -185,8 +196,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -197,15 +207,15 @@
   },
   "active": "87d1b5a4408e888f",
   "lastOpenFiles": [
-    "optimal prediction.md",
     "Concepts/inference background.md",
+    "Concepts/frequentist.md",
+    "Concepts/Bayesian.md",
+    "Concepts/optimal prediction.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Concepts/law of iterated expectations.md",
     "Concepts/some background on inference.md",
     "Concepts/supervised learning.md",
-    "Concepts/inductive bias.md",
-    "Concepts/no free lunch theorem.md",
-    "Concepts/Acronyms.md"
+    "Concepts/inductive bias.md"
   ]
 }

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "frequentist",
+      "path": "Concepts/frequentist.md"
+    },
+    {
       "basename": "inference background",
       "path": "Concepts/inference background.md"
     },
     {
+      "basename": "Bayesian",
+      "path": "Concepts/Bayesian.md"
+    },
+    {
       "basename": "optimal prediction",
-      "path": "optimal prediction.md"
+      "path": "Concepts/optimal prediction.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
@@ -39,14 +47,6 @@
     {
       "basename": "causal inference and interpretation",
       "path": "Concepts/causal inference and interpretation.md"
-    },
-    {
-      "basename": "Bayesian",
-      "path": "Concepts/Bayesian.md"
-    },
-    {
-      "basename": "frequentist",
-      "path": "Concepts/frequentist.md"
     },
     {
       "basename": "Day Planner-20221014",
