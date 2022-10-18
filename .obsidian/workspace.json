@@ -37,7 +37,7 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                        "file": "Concepts/inference background.md",
                         "mode": "source",
                         "source": true
                       }
@@ -79,7 +79,7 @@
       {
         "id": "010930e9707ab5ed",
         "type": "tabs",
-        "dimension": 55.82922824302135,
+        "dimension": 55.82922824302134,
         "children": [
           {
             "id": "0537b5b61075e3af",
@@ -127,7 +127,7 @@
       {
         "id": "4e94b2e5697c3be2",
         "type": "tabs",
-        "dimension": 44.17077175697865,
+        "dimension": 44.17077175697866,
         "children": [
           {
             "id": "7fd7244aca68e90c",
@@ -157,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Concepts/inference background.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Concepts/inference background.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
+                "file": "Concepts/inference background.md"
               }
             }
           },
@@ -221,15 +221,15 @@
   },
   "active": "2513258199841396",
   "lastOpenFiles": [
-    "Concepts/supervised learning.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/some background on inference.md",
+    "Concepts/supervised learning.md",
     "Concepts/inductive bias.md",
     "Concepts/no free lunch theorem.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Concepts/Acronyms.md",
     "Concepts/causal inference and interpretation.md",
     "Concepts/Bayesian.md",
-    "Concepts/frequentist.md",
-    "Day Planners/Day Planner-20221014.md"
+    "Concepts/frequentist.md"
   ]
 }
