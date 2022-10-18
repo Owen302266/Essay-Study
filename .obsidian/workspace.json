@@ -24,47 +24,22 @@
             ]
           },
           {
-            "id": "e455b1789665485d",
-            "type": "split",
+            "id": "eb07ed9a4d711fef",
+            "type": "tabs",
             "children": [
               {
-                "id": "b57622f766ae4a48",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "2513258199841396",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Concepts/inference background.md",
-                        "mode": "source",
-                        "source": true
-                      }
-                    }
+                "id": "87d1b5a4408e888f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Concepts/inference background.md",
+                    "mode": "source",
+                    "source": true
                   }
-                ]
-              },
-              {
-                "id": "cae7ee94811ac7e4",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "768212ad6ac37489",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
-                        "mode": "source",
-                        "source": false
-                      }
-                    }
-                  }
-                ]
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
         "direction": "vertical"
@@ -122,7 +97,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -219,17 +195,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2513258199841396",
+  "active": "87d1b5a4408e888f",
   "lastOpenFiles": [
+    "optimal prediction.md",
+    "Concepts/inference background.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
+    "Concepts/law of iterated expectations.md",
     "Concepts/some background on inference.md",
     "Concepts/supervised learning.md",
     "Concepts/inductive bias.md",
     "Concepts/no free lunch theorem.md",
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
-    "Concepts/Acronyms.md",
-    "Concepts/causal inference and interpretation.md",
-    "Concepts/Bayesian.md",
-    "Concepts/frequentist.md"
+    "Concepts/Acronyms.md"
   ]
 }
