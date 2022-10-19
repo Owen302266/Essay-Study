@@ -5,6 +5,10 @@
       "path": "Concepts/frequentist.md"
     },
     {
+      "basename": "Gaussian noise",
+      "path": "Concepts/Gaussian noise.md"
+    },
+    {
       "basename": "inference background",
       "path": "Concepts/inference background.md"
     },
