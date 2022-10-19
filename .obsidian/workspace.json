@@ -148,7 +148,7 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -205,7 +205,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "87d1b5a4408e888f",
+  "active": "adfe36d19c34b626",
   "lastOpenFiles": [
     "Concepts/inference background.md",
     "Concepts/frequentist.md",

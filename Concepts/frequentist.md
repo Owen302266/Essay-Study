@@ -10,3 +10,4 @@ The deﬁnition of the “true” distribution $p(x, t)$ depends in practice on 
 The $t_n$ is related to different people.
 
 
+## Taxonomy of solutions
