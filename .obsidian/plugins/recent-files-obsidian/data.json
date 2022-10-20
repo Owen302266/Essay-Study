@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Generative probabilistic model",
+      "path": "Generative probabilistic model.md"
+    },
+    {
       "basename": "frequentist",
       "path": "Concepts/frequentist.md"
     },
     {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
-    },
-    {
       "basename": "Discriminative probabilistic model",
       "path": "Discriminative probabilistic model.md"
+    },
+    {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "Gaussian noise",
