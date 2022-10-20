@@ -24,6 +24,10 @@ $\hat{t}_{\mathcal{D}}(x)=\arg \min _{\hat{t}} \mathrm{E}_{\mathrm{t} \sim p_{\m
 1. [[Discriminative probabilistic model]]
 2. [[Generative probabilistic model]]
 
+## Model Order and Model Parameters
+
+
+
 
 
 

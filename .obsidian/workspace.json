@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Concepts/frequentist.md",
-                    "mode": "preview",
+                    "mode": "source",
                     "source": true
                   }
                 }
@@ -51,8 +51,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Generative probabilistic model.md",
+                "file": "Concepts/frequentist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Generative probabilistic model.md",
+                "file": "Concepts/frequentist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -185,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Generative probabilistic model.md"
+                "file": "Concepts/frequentist.md"
               }
             }
           },
@@ -206,11 +205,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0624f1ee6b4a2228",
+  "active": "87d1b5a4408e888f",
   "lastOpenFiles": [
+    "Generative probabilistic model.md",
     "Concepts/frequentist.md",
     "Discriminative probabilistic model.md",
-    "Generative probabilistic model.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Gaussian noise.md",
     "Concepts/inference background.md",
