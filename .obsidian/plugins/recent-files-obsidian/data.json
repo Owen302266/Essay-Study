@@ -5,6 +5,14 @@
       "path": "Concepts/frequentist.md"
     },
     {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "Discriminative probabilistic model",
+      "path": "Discriminative probabilistic model.md"
+    },
+    {
       "basename": "Gaussian noise",
       "path": "Concepts/Gaussian noise.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "optimal prediction",
       "path": "Concepts/optimal prediction.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",

@@ -34,7 +34,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Concepts/frequentist.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": true
                   }
                 }
@@ -195,15 +195,15 @@
   },
   "active": "87d1b5a4408e888f",
   "lastOpenFiles": [
-    "Concepts/Gaussian noise.md",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/frequentist.md",
+    "Discriminative probabilistic model.md",
+    "Concepts/Gaussian noise.md",
     "Concepts/inference background.md",
     "Concepts/Bayesian.md",
     "Concepts/optimal prediction.md",
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Concepts/law of iterated expectations.md",
-    "Concepts/some background on inference.md",
-    "Concepts/supervised learning.md"
+    "Concepts/some background on inference.md"
   ]
 }
