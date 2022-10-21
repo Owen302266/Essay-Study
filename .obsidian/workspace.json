@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Concepts/frequentist.md",
+                    "file": "Model order.md",
                     "mode": "source",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/frequentist.md",
+                "file": "Model order.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/frequentist.md",
+                "file": "Model order.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/frequentist.md"
+                "file": "Model order.md"
               }
             }
           },
@@ -207,8 +207,8 @@
   },
   "active": "87d1b5a4408e888f",
   "lastOpenFiles": [
-    "Generative probabilistic model.md",
     "Concepts/frequentist.md",
+    "Generative probabilistic model.md",
     "Discriminative probabilistic model.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Gaussian noise.md",
