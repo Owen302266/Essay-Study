@@ -27,8 +27,9 @@ $\hat{t}_{\mathcal{D}}(x)=\arg \min _{\hat{t}} \mathrm{E}_{\mathrm{t} \sim p_{\m
 ## Model Order and Model Parameters
 
 1. [[Model order]] $M$
-2. 
+2. [[Model parameters]] $\theta$
 
+## Maximum Likelihood (ML) Learning
 
 
 

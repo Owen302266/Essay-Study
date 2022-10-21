@@ -1,0 +1,1 @@
+Assigning specific values to the model parameters θ identiﬁes a hypothesis within the given hypothesis class through Maximum Likelihood (ML) and Maximum a Posteriori (MAP)

@@ -33,7 +33,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Model order.md",
+                    "file": "Concepts/frequentist.md",
                     "mode": "source",
                     "source": true
                   }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Model order.md",
+                "file": "Concepts/frequentist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Model order.md",
+                "file": "Concepts/frequentist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Model order.md"
+                "file": "Concepts/frequentist.md"
               }
             }
           },
@@ -207,15 +207,15 @@
   },
   "active": "87d1b5a4408e888f",
   "lastOpenFiles": [
+    "Model parameters.md",
     "Concepts/frequentist.md",
     "Generative probabilistic model.md",
+    "Model order.md",
     "Discriminative probabilistic model.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Gaussian noise.md",
     "Concepts/inference background.md",
     "Concepts/Bayesian.md",
-    "Concepts/optimal prediction.md",
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
-    "Concepts/law of iterated expectations.md"
+    "Concepts/optimal prediction.md"
   ]
 }

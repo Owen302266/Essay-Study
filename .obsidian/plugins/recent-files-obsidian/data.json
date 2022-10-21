@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Model order",
-      "path": "Model order.md"
-    },
-    {
       "basename": "frequentist",
       "path": "Concepts/frequentist.md"
     },
     {
+      "basename": "Model parameters",
+      "path": "Model parameters.md"
+    },
+    {
       "basename": "Generative probabilistic model",
       "path": "Generative probabilistic model.md"
+    },
+    {
+      "basename": "Model order",
+      "path": "Model order.md"
     },
     {
       "basename": "Discriminative probabilistic model",
