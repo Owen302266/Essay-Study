@@ -37,5 +37,11 @@ $\hat{t}_{\mathcal{D}}(x)=\arg \min _{\hat{t}} \mathrm{E}_{\mathrm{t} \sim p_{\m
 
 the training loss is smaller than the generalization loss
 
+**decomposition:**
+$L_{p}\left(w_{ML}\right)=L_{p}\left(\hat{t}^{*}\right)+\left(L_{p}\left(w^{*}\right)-L_{p}\left(\hat{t}^{*}\right)\right)+\left(L_{p}\left(w_{M L}\right)-L_{p}\left(w^{*}\right)\right)$
+1. bias:$\left(L_{p}\left(w^{*}\right)-L_{p}\left(\hat{t}^{*}\right)\right)$
+2. estimation error or generalization gap:$\left(L_{p}\left(w_{M L}\right)-L_{p}\left(w^{*}\right)\right)$
+
+
 
 
