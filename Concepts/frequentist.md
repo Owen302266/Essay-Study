@@ -42,6 +42,6 @@ $L_{p}\left(w_{ML}\right)=L_{p}\left(\hat{t}^{*}\right)+\left(L_{p}\left(w^{*}\r
 1. bias:$\left(L_{p}\left(w^{*}\right)-L_{p}\left(\hat{t}^{*}\right)\right)$
 2. estimation error or generalization gap:$\left(L_{p}\left(w_{M L}\right)-L_{p}\left(w^{*}\right)\right)$
 
-
+k-fold cross-validation
 
 
