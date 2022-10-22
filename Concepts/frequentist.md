@@ -31,9 +31,11 @@ $\hat{t}_{\mathcal{D}}(x)=\arg \min _{\hat{t}} \mathrm{E}_{\mathrm{t} \sim p_{\m
 
 ## Maximum Likelihood (ML) Learning
 
+[[Overﬁtting and Underﬁtting]]
 
+**Generalization loss:**
 
-
+the training loss is smaller than the generalization loss
 
 
 

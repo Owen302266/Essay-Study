@@ -5,12 +5,20 @@
       "path": "Concepts/frequentist.md"
     },
     {
-      "basename": "Model parameters",
-      "path": "Model parameters.md"
+      "basename": "Overﬁtting and Underﬁtting",
+      "path": "Overﬁtting and Underﬁtting.md"
     },
     {
       "basename": "Generative probabilistic model",
       "path": "Generative probabilistic model.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
+      "basename": "Model parameters",
+      "path": "Model parameters.md"
     },
     {
       "basename": "Model order",
@@ -59,10 +67,6 @@
     {
       "basename": "no free lunch theorem",
       "path": "Concepts/no free lunch theorem.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "causal inference and interpretation",
