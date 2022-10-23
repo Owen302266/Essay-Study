@@ -16,8 +16,19 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "cfce28236c2e092d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "23227ee11efd11e1",
@@ -133,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
+                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg"
               }
             }
           },
@@ -194,10 +205,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2c2bc2a5d35a4636",
+  "active": "cfce28236c2e092d",
   "lastOpenFiles": [
-    "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+    "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Overﬁtting and Underﬁtting.md",
     "Generative probabilistic model.md",
     "Model parameters.md",
