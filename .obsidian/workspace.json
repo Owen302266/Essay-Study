@@ -4,57 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "5812badb36666d01",
-        "type": "split",
+        "id": "eb07ed9a4d711fef",
+        "type": "tabs",
         "children": [
           {
-            "id": "e7547e64f9aae35f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "6aaa87a83278261b",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
-                  }
-                }
+            "id": "d92b3934f2f00aba",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
               }
-            ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "cc5ea00c2d91458b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0624f1ee6b4a2228",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Generative probabilistic model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           },
           {
-            "id": "eb07ed9a4d711fef",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d92b3934f2f00aba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "0624f1ee6b4a2228",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Generative probabilistic model.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "3ca9ab272001575a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "vertical"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,17 +199,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "0537b5b61075e3af",
+  "active": "3ca9ab272001575a",
   "lastOpenFiles": [
-    "Generative probabilistic model.md",
+    "Overﬁtting and Underﬁtting.md",
     "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+    "Generative probabilistic model.md",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Model parameters.md",
     "智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png",
     "Day Planners/Day Planner-20221023.md",
     "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "Day Planners/Day Planner-20221022.md",
-    "Day Planners/Day Planner-20221021.md",
-    "Day Planners/Day Planner-20221020.md",
-    "Day Planners/Day Planner-20221019.md"
+    "Day Planners/Day Planner-20221021.md"
   ]
 }
