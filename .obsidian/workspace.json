@@ -4,39 +4,27 @@
     "type": "split",
     "children": [
       {
-        "id": "ceb9479a97faecc9",
+        "id": "cc5ea00c2d91458b",
         "type": "tabs",
         "children": [
           {
-            "id": "3ca9ab272001575a",
+            "id": "f16473ff4868d4a5",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
-              }
+              "type": "book-view",
+              "state": {},
+              "pinned": true
             }
           }
         ]
       },
       {
-        "id": "cc5ea00c2d91458b",
+        "id": "23227ee11efd11e1",
         "type": "tabs",
         "children": [
           {
-            "id": "0624f1ee6b4a2228",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Generative probabilistic model.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "03d1fce213d137cb",
+            "id": "2c2bc2a5d35a4636",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -47,8 +35,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,6 +87,14 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "adbbd4b81e0d9a07",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
               "state": {}
             }
           }
@@ -199,9 +194,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "03d1fce213d137cb",
+  "active": "2c2bc2a5d35a4636",
   "lastOpenFiles": [
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf",
+    "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
     "Overﬁtting and Underﬁtting.md",
     "Generative probabilistic model.md",
