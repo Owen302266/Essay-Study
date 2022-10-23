@@ -5,16 +5,16 @@
       "path": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
     },
     {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
+    },
+    {
       "basename": "Overﬁtting and Underﬁtting",
       "path": "Overﬁtting and Underﬁtting.md"
     },
     {
       "basename": "Generative probabilistic model",
       "path": "Generative probabilistic model.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.pdf"
     },
     {
       "basename": "Model parameters",
