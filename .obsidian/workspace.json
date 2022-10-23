@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg"
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
               }
             }
           },
@@ -205,8 +205,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cfce28236c2e092d",
+  "active": "2c2bc2a5d35a4636",
   "lastOpenFiles": [
+    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
     "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Overﬁtting and Underﬁtting.md",
@@ -214,7 +215,6 @@
     "Model parameters.md",
     "智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png",
     "Day Planners/Day Planner-20221023.md",
-    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "Day Planners/Day Planner-20221022.md",
     "Day Planners/Day Planner-20221021.md"
   ]
