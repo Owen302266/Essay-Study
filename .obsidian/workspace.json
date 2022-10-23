@@ -28,36 +28,14 @@
             "type": "tabs",
             "children": [
               {
-                "id": "87d1b5a4408e888f",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Day Planners/Day Planner-20221023.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "5e1b7ac2138cf28e",
+                "id": "d92b3934f2f00aba",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "智能科学与技术前沿学科论坛会议.md",
                     "mode": "source",
-                    "source": true
-                  }
-                }
-              },
-              {
-                "id": "d92b3934f2f00aba",
-                "type": "leaf",
-                "state": {
-                  "type": "image",
-                  "state": {
-                    "file": "figure/Pasted image 20221023100229.png"
+                    "source": false
                   }
                 }
               },
@@ -73,8 +51,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -228,17 +205,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "5e1b7ac2138cf28e",
+  "active": "d92b3934f2f00aba",
   "lastOpenFiles": [
-    "figure/Pasted image 20221023100229.png",
+    "Generative probabilistic model.md",
     "智能科学与技术前沿学科论坛会议.md",
-    "figure/NWPU_Conference20221023.jpg",
+    "figure/Pasted image 20221023100229.png",
     "Day Planners/Day Planner-20221023.md",
+    "figure/NWPU_Conference20221023.jpg",
     "Day Planners/Day Planner-20221022.md",
     "Day Planners/Day Planner-20221021.md",
     "Day Planners/Day Planner-20221020.md",
     "Day Planners/Day Planner-20221019.md",
-    "Day Planners/Day Planner-20221018.md",
-    "Day Planners/Day Planner-20221017.md"
+    "Day Planners/Day Planner-20221018.md"
   ]
 }

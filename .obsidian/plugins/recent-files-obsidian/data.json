@@ -5,16 +5,20 @@
       "path": "智能科学与技术前沿学科论坛会议.md"
     },
     {
+      "basename": "Generative probabilistic model",
+      "path": "Generative probabilistic model.md"
+    },
+    {
       "basename": "Pasted image 20221023100229",
       "path": "figure/Pasted image 20221023100229.png"
     },
     {
-      "basename": "NWPU_Conference20221023",
-      "path": "figure/NWPU_Conference20221023.jpg"
-    },
-    {
       "basename": "Day Planner-20221023",
       "path": "Day Planners/Day Planner-20221023.md"
+    },
+    {
+      "basename": "NWPU_Conference20221023",
+      "path": "figure/NWPU_Conference20221023.jpg"
     },
     {
       "basename": "optimal prediction",
@@ -27,10 +31,6 @@
     {
       "basename": "Overﬁtting and Underﬁtting",
       "path": "Overﬁtting and Underﬁtting.md"
-    },
-    {
-      "basename": "Generative probabilistic model",
-      "path": "Generative probabilistic model.md"
     },
     {
       "basename": "Acronyms",

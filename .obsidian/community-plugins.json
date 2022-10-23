@@ -19,5 +19,6 @@
   "media-extended",
   "obsidian-charts",
   "obsidian-codemirror-options",
-  "table-editor-obsidian"
+  "table-editor-obsidian",
+  "editing-toolbar"
 ]
