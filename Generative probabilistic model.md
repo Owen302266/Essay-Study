@@ -1,4 +1,4 @@
-=Once the joint distribution $p(x, t|θ)$ is learned from the data, one can compute the posterior $p(t|x, θ)$ using Bayes’ theorem, and, from it, the optimal predictor (2.6) can be evaluated for any loss function.
+ Once the joint distribution $p(x, t|θ)$ is learned from the data, one can compute the posterior $p(t|x, θ)$ using Bayes’ theorem, and, from it, the optimal predictor (2.6) can be evaluated for any loss function.
 （2.6）
 $\hat{t}_{\mathcal{D}}(x)=\arg \min _{\hat{t}} \mathrm{E}_{\mathrm{t} \sim p_{\mathcal{D}}(t \mid x)}[\ell(\mathrm{t}, \hat{t}) \mid x]$
 

@@ -10,15 +10,14 @@
   "obsidian-git",
   "obsidian-day-planner",
   "quickadd",
-  "obsidian-emoji-toolbar",
   "better-word-count",
   "recent-files-obsidian",
   "obsidian-dictionary-plugin",
   "url-into-selection",
-  "obsidian-annotator",
   "media-extended",
   "obsidian-charts",
   "obsidian-codemirror-options",
   "table-editor-obsidian",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-style-settings"
 ]

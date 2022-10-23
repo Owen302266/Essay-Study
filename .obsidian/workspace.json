@@ -33,9 +33,9 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "智能科学与技术前沿学科论坛会议.md",
+                    "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
                     "mode": "source",
-                    "source": false
+                    "source": true
                   }
                 }
               },
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议.md",
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议.md",
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议.md"
+                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
               }
             }
           },
@@ -205,17 +205,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d92b3934f2f00aba",
+  "active": "0537b5b61075e3af",
   "lastOpenFiles": [
     "Generative probabilistic model.md",
-    "智能科学与技术前沿学科论坛会议.md",
-    "figure/Pasted image 20221023100229.png",
+    "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+    "Model parameters.md",
+    "智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png",
     "Day Planners/Day Planner-20221023.md",
-    "figure/NWPU_Conference20221023.jpg",
+    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "Day Planners/Day Planner-20221022.md",
     "Day Planners/Day Planner-20221021.md",
     "Day Planners/Day Planner-20221020.md",
-    "Day Planners/Day Planner-20221019.md",
-    "Day Planners/Day Planner-20221018.md"
+    "Day Planners/Day Planner-20221019.md"
   ]
 }
