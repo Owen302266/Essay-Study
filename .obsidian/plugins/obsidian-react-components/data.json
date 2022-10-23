@@ -1,4 +1,4 @@
 {
-    "template_folder": "88-Template/ReactJS",
-    "auto_refresh": true
-  }
+  "template_folder": "Template/ReactJS",
+  "auto_refresh": true
+}

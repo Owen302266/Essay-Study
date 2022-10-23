@@ -10,9 +10,11 @@
           {
             "id": "f16473ff4868d4a5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "book-view",
-              "state": {}
+              "state": {},
+              "pinned": true
             }
           },
           {
@@ -43,8 +45,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "652a04acb219e4ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +174,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +197,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
+                "file": "未命名.md"
               }
             }
           },
@@ -203,17 +218,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2c2bc2a5d35a4636",
+  "active": "652a04acb219e4ed",
   "lastOpenFiles": [
-    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+    "未命名.md",
+    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Overﬁtting and Underﬁtting.md",
     "Generative probabilistic model.md",
     "Model parameters.md",
     "智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png",
     "Day Planners/Day Planner-20221023.md",
-    "Day Planners/Day Planner-20221022.md",
-    "Day Planners/Day Planner-20221021.md"
+    "Day Planners/Day Planner-20221022.md"
   ]
 }
