@@ -4,6 +4,22 @@
     "type": "split",
     "children": [
       {
+        "id": "c0a823eb6ec0e2f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9a58ebd0aed776e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg"
+              }
+            }
+          }
+        ]
+      },
+      {
         "id": "23227ee11efd11e1",
         "type": "tabs",
         "children": [
@@ -180,11 +196,11 @@
   },
   "active": "2c2bc2a5d35a4636",
   "lastOpenFiles": [
+    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
+    "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
     "Template/彩色时钟.md",
     "Template/88-Template.md",
     "未命名.md",
-    "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
-    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Overﬁtting and Underﬁtting.md",
     "Generative probabilistic model.md",
