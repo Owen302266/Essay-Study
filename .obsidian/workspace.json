@@ -4,22 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "c0a823eb6ec0e2f6",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9a58ebd0aed776e",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg"
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "23227ee11efd11e1",
         "type": "tabs",
         "children": [
@@ -29,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +82,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -133,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
               }
             }
           },
@@ -194,17 +179,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "2c2bc2a5d35a4636",
+  "active": "adbbd4b81e0d9a07",
   "lastOpenFiles": [
-    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
+    "A Brief Introduction to Machine Learning for Engineers.pdf",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
+    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
     "Template/彩色时钟.md",
     "Template/88-Template.md",
     "未命名.md",
-    "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "Overﬁtting and Underﬁtting.md",
     "Generative probabilistic model.md",
-    "Model parameters.md",
-    "智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png"
+    "Model parameters.md"
   ]
 }
