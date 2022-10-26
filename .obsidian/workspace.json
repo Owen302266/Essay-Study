@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20221026.md",
+                "file": "AI+遥感会议/AI+遥感会议.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20221026.md",
+                "file": "AI+遥感会议/AI+遥感会议.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20221026.md"
+                "file": "AI+遥感会议/AI+遥感会议.md"
               }
             }
           },
@@ -191,11 +190,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4b2c1a3b1dcdf6bd",
+  "active": "4f9caf1c22551e98",
   "lastOpenFiles": [
+    "Day Planners/Day Planner-20221026.md",
     "AI+遥感会议/AI+遥感会议.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
-    "Day Planners/Day Planner-20221026.md",
     "Concepts/supervised learning.md",
     "Concepts/information-theoretic metrics.md",
     "Concepts/MDL learning approaches.md",
