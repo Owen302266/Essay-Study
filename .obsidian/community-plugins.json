@@ -24,5 +24,6 @@
   "obsidian-booknote-plugin",
   "web-browser",
   "markdown-table-editor",
-  "obsidian-hover-editor"
+  "obsidian-hover-editor",
+  "floating-toc"
 ]
