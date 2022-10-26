@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4b2c1a3b1dcdf6bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Day Planners/Day Planner-20221026.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI+遥感会议/AI+遥感会议.md",
+                "file": "Day Planners/Day Planner-20221026.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI+遥感会议/AI+遥感会议.md",
+                "file": "Day Planners/Day Planner-20221026.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI+遥感会议/AI+遥感会议.md"
+                "file": "Day Planners/Day Planner-20221026.md"
               }
             }
           },
@@ -178,17 +191,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4f9caf1c22551e98",
+  "active": "4b2c1a3b1dcdf6bd",
   "lastOpenFiles": [
-    "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md",
     "AI+遥感会议/AI+遥感会议.md",
-    "A Brief Introduction to Machine Learning for Engineers.pdf",
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
-    "智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg",
-    "Template/彩色时钟.md",
-    "Template/88-Template.md",
-    "Overﬁtting and Underﬁtting.md",
-    "Generative probabilistic model.md",
-    "Model parameters.md"
+    "Day Planners/Day Planner-20221026.md",
+    "Day Planners/Day Planner-20221024.md",
+    "Concepts/inference background.md",
+    "Concepts/Model parameters.md",
+    "Concepts/Overﬁtting and Underﬁtting.md",
+    "Concepts/Generative probabilistic model.md",
+    "Concepts/causal inference and interpretation.md",
+    "Concepts/Bayesian.md",
+    "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
   ]
 }

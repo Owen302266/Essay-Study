@@ -1,8 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Day Planner-20221026",
+      "path": "Day Planners/Day Planner-20221026.md"
+    },
+    {
       "basename": "AI+遥感会议",
       "path": "AI+遥感会议/AI+遥感会议.md"
+    },
+    {
+      "basename": "inference background",
+      "path": "Concepts/inference background.md"
+    },
+    {
+      "basename": "Model parameters",
+      "path": "Concepts/Model parameters.md"
+    },
+    {
+      "basename": "Overﬁtting and Underﬁtting",
+      "path": "Concepts/Overﬁtting and Underﬁtting.md"
+    },
+    {
+      "basename": "Generative probabilistic model",
+      "path": "Concepts/Generative probabilistic model.md"
+    },
+    {
+      "basename": "causal inference and interpretation",
+      "path": "Concepts/causal inference and interpretation.md"
+    },
+    {
+      "basename": "Bayesian",
+      "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "智能科学与技术前沿学科论坛会议",
@@ -37,10 +65,6 @@
       "path": "智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png"
     },
     {
-      "basename": "Day Planner-20221023",
-      "path": "Day Planners/Day Planner-20221023.md"
-    },
-    {
       "basename": "optimal prediction",
       "path": "Concepts/optimal prediction.md"
     },
@@ -65,14 +89,6 @@
       "path": "Concepts/Gaussian noise.md"
     },
     {
-      "basename": "inference background",
-      "path": "Concepts/inference background.md"
-    },
-    {
-      "basename": "Bayesian",
-      "path": "Concepts/Bayesian.md"
-    },
-    {
       "basename": "law of iterated expectations",
       "path": "Concepts/law of iterated expectations.md"
     },
@@ -87,10 +103,6 @@
     {
       "basename": "no free lunch theorem",
       "path": "Concepts/no free lunch theorem.md"
-    },
-    {
-      "basename": "causal inference and interpretation",
-      "path": "Concepts/causal inference and interpretation.md"
     },
     {
       "basename": "README",
