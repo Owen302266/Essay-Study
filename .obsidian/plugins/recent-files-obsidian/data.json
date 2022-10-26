@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Day Planner-20221026",
-      "path": "Day Planners/Day Planner-20221026.md"
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "supervised learning",
+      "path": "Concepts/supervised learning.md"
     },
     {
       "basename": "AI+遥感会议",
       "path": "AI+遥感会议/AI+遥感会议.md"
+    },
+    {
+      "basename": "Day Planner-20221026",
+      "path": "Day Planners/Day Planner-20221026.md"
+    },
+    {
+      "basename": "information-theoretic metrics",
+      "path": "Concepts/information-theoretic metrics.md"
+    },
+    {
+      "basename": "MDL learning approaches",
+      "path": "Concepts/MDL learning approaches.md"
     },
     {
       "basename": "inference background",
@@ -39,10 +55,6 @@
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "A Brief Introduction to Machine Learning for Engineers.pdf"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "NWPU_Conference20221023",
@@ -91,10 +103,6 @@
     {
       "basename": "law of iterated expectations",
       "path": "Concepts/law of iterated expectations.md"
-    },
-    {
-      "basename": "supervised learning",
-      "path": "Concepts/supervised learning.md"
     },
     {
       "basename": "inductive bias",

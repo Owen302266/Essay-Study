@@ -1,0 +1,14 @@
+{
+  "defaultMode": "preview",
+  "autoPin": "always",
+  "triggerDelay": 300,
+  "closeDelay": 600,
+  "autoFocus": true,
+  "rollDown": false,
+  "snapToEdges": false,
+  "initialHeight": "510px",
+  "initialWidth": "600px",
+  "showViewHeader": true,
+  "imageZoom": true,
+  "hoverEmbeds": true
+}

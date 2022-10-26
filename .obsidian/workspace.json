@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI+遥感会议/AI+遥感会议.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day Planners/Day Planner-20221026.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day Planners/Day Planner-20221026.md",
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day Planners/Day Planner-20221026.md"
+                "file": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
               }
             }
           },
@@ -191,17 +190,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "4b2c1a3b1dcdf6bd",
+  "active": "4f9caf1c22551e98",
   "lastOpenFiles": [
-    "Day Planners/Day Planner-20221026.md",
+    "Concepts/supervised learning.md",
+    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "AI+遥感会议/AI+遥感会议.md",
+    "Day Planners/Day Planner-20221026.md",
+    "Concepts/information-theoretic metrics.md",
+    "Concepts/MDL learning approaches.md",
     "Day Planners/Day Planner-20221024.md",
     "Concepts/inference background.md",
     "Concepts/Model parameters.md",
-    "Concepts/Overﬁtting and Underﬁtting.md",
-    "Concepts/Generative probabilistic model.md",
-    "Concepts/causal inference and interpretation.md",
-    "Concepts/Bayesian.md",
-    "智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
+    "Concepts/Overﬁtting and Underﬁtting.md"
   ]
 }
