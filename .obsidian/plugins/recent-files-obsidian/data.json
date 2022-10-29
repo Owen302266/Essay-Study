@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "frequentist",
+      "path": "Concepts/frequentist.md"
+    },
+    {
       "basename": "ridge regression",
       "path": "ridge regression.md"
     },
     {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
+      "basename": "Laplace pdf",
+      "path": "Laplace pdf.md"
     },
     {
-      "basename": "frequentist",
-      "path": "Concepts/frequentist.md"
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",

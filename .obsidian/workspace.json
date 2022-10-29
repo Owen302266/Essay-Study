@@ -4,26 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "fc02c85c49f7be67",
-        "type": "tabs",
-        "dimension": 50.37593984962406,
-        "children": [
-          {
-            "id": "184bfe25a58dafcf",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "book-view",
-              "state": {},
-              "pinned": true
-            }
-          }
-        ]
-      },
-      {
         "id": "134dd6ae0fe7a800",
         "type": "tabs",
-        "dimension": 49.62406015037594,
         "children": [
           {
             "id": "ba25804e38a68dc4",
@@ -49,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -149,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ridge regression.md",
+                "file": "Concepts/frequentist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ridge regression.md",
+                "file": "Concepts/frequentist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ridge regression.md"
+                "file": "Concepts/frequentist.md"
               }
             }
           },
@@ -235,17 +217,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "799f4703c7dd93ca",
+  "active": "ba25804e38a68dc4",
   "lastOpenFiles": [
-    "Concepts/Acronyms.md",
     "ridge regression.md",
     "Concepts/frequentist.md",
+    "Laplace pdf.md",
+    "Concepts/Acronyms.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "search.md",
     "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
     "AI+遥感会议/AI+遥感会议.md",
     "Day Planners/Day Planner-20221026.md",
-    "Concepts/supervised learning.md",
-    "Concepts/information-theoretic metrics.md"
+    "Concepts/supervised learning.md"
   ]
 }
