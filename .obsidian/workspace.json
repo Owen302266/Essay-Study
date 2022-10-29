@@ -13,19 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/frequentist.md",
+                "file": "Concepts/Bayesian.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "799f4703c7dd93ca",
+            "id": "cea875f5fdec6494",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ridge regression.md",
+                "file": "Concepts/Acronyms.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,8 +94,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/frequentist.md",
+                "file": "Concepts/Bayesian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/frequentist.md",
+                "file": "Concepts/Bayesian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/frequentist.md"
+                "file": "Concepts/Bayesian.md"
               }
             }
           },
@@ -219,15 +218,15 @@
   },
   "active": "ba25804e38a68dc4",
   "lastOpenFiles": [
-    "ridge regression.md",
-    "Concepts/frequentist.md",
-    "Laplace pdf.md",
-    "Concepts/Acronyms.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/frequentist.md",
+    "Concepts/regularization.md",
+    "Concepts/bootstrap.md",
     "search.md",
+    "Concepts/Acronyms.md",
+    "Concepts/LASSO.md",
+    "Concepts/ridge regression.md",
     "Essays/A Brief Introduction to Machine Learning for Engineers.pdf",
-    "AI+遥感会议/AI+遥感会议.md",
-    "Day Planners/Day Planner-20221026.md",
-    "Concepts/supervised learning.md"
+    "AI+遥感会议/AI+遥感会议.md"
   ]
 }

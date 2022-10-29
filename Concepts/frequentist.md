@@ -55,5 +55,8 @@ maximize the posterior distribution of the parameters $w$ given the available da
 
 increase $N$, MAP become the same as ML, as the prior information decrease as $1/N$
 
-[[ridge regression]]/[[Laplace pdf]]
+[[ridge regression]]/[[LASSO]]
 
+## Regularization
+
+[[regularization]]

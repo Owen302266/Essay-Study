@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "frequentist",
-      "path": "Concepts/frequentist.md"
-    },
-    {
-      "basename": "ridge regression",
-      "path": "ridge regression.md"
-    },
-    {
-      "basename": "Laplace pdf",
-      "path": "Laplace pdf.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
+      "basename": "Bayesian",
+      "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
+      "basename": "frequentist",
+      "path": "Concepts/frequentist.md"
+    },
+    {
+      "basename": "regularization",
+      "path": "Concepts/regularization.md"
+    },
+    {
+      "basename": "bootstrap",
+      "path": "Concepts/bootstrap.md"
+    },
+    {
       "basename": "search",
       "path": "search.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
+      "basename": "LASSO",
+      "path": "Concepts/LASSO.md"
+    },
+    {
+      "basename": "ridge regression",
+      "path": "Concepts/ridge regression.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
@@ -67,10 +79,6 @@
     {
       "basename": "causal inference and interpretation",
       "path": "Concepts/causal inference and interpretation.md"
-    },
-    {
-      "basename": "Bayesian",
-      "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "智能科学与技术前沿学科论坛会议",
