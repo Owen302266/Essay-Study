@@ -20,19 +20,27 @@
             }
           },
           {
-            "id": "bb96e4cbe6cfbb88",
+            "id": "db5885d41aaee543",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/frequentist.md",
+                "file": "Concepts/Acronyms.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "372123e3c66186af",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -95,7 +103,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -130,7 +139,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/frequentist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/frequentist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +176,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concepts/frequentist.md"
-              }
+              "state": {}
             }
           },
           {
@@ -181,24 +186,33 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "853b55ad7c2d431f",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
     "width": 224
   },
-  "active": "bb96e4cbe6cfbb88",
+  "active": "adbbd4b81e0d9a07",
   "lastOpenFiles": [
+    "Concepts/Acronyms.md",
+    "A Brief Introduction to Machine Learning for Engineers.pdf",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/frequentist.md",
-    "Concepts/Acronyms.md",
     "AI+遥感会议/AI+遥感会议.md",
     "Day Planners/Day Planner-20221026.md",
     "Concepts/supervised learning.md",
     "Concepts/information-theoretic metrics.md",
     "Concepts/MDL learning approaches.md",
-    "Day Planners/Day Planner-20221024.md",
-    "Concepts/inference background.md"
+    "Day Planners/Day Planner-20221024.md"
   ]
 }

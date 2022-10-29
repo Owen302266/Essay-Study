@@ -51,7 +51,7 @@ leverage prior information available on the behavior of the parameters in the ab
 
 a manifestation of overfitting is the large value of norm $||w||$ of the vector of weights.
 
-
+maximize the posterior distribution of the parameters $w$ given the available data
 
 
 
