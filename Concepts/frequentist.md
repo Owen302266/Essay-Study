@@ -53,5 +53,7 @@ a manifestation of overfitting is the large value of norm $||w||$ of the vector 
 
 maximize the posterior distribution of the parameters $w$ given the available data
 
+increase $N$, MAP become the same as ML, as the prior information decrease as $1/N$
 
+[[ridge regression]]
 
