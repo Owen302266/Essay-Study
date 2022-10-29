@@ -44,4 +44,14 @@ $L_{p}\left(w_{ML}\right)=L_{p}\left(\hat{t}^{*}\right)+\left(L_{p}\left(w^{*}\r
 
 k-fold cross-validation
 
+## MAP Criterion
+**key idea:**
+
+leverage prior information available on the behavior of the parameters in the absence, or presence, of overﬁtting.
+
+a manifestation of overfitting is the large value of norm $||w||$ of the vector of weights.
+
+
+
+
 
