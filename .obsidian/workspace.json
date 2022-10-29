@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "517b0950adcbc362",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.3"
+              }
+            }
+          },
+          {
             "id": "4b2c1a3b1dcdf6bd",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -187,10 +198,7 @@
     "direction": "horizontal",
     "width": 224
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "4f9caf1c22551e98",
+  "active": "517b0950adcbc362",
   "lastOpenFiles": [
     "Day Planners/Day Planner-20221026.md",
     "AI+遥感会议/AI+遥感会议.md",
