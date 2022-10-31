@@ -20,6 +20,26 @@
             }
           },
           {
+            "id": "29d57673ff5a653c",
+            "type": "leaf",
+            "state": {
+              "type": "web-browser-view",
+              "state": {
+                "url": "https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&rsv_idx=1&tn=baidu&wd=%E5%85%88%E9%AA%8C%E5%90%8E%E9%AA%8C%E6%A6%82%E7%8E%87&fenlei=256&oq=%25E5%2585%2588%25E9%25AA%258C%25E5%2590%258E%25E9%25AA%258C%25E6%2598%25AF%25E4%25BB%2580%25E4%25B9%2588%25E6%2584%258F%25E6%2580%259D&rsv_pq=9bdeeb9d0000122f&rsv_t=95c0zVT4yw1vdFh9bn3UidyhUHof0ISL28l4LS5M5z1XhpM%2FSbPjKzIw5jc&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=1561&rsv_sug3=27&rsv_sug1=23&rsv_sug7=100&rsv_sug2=0&rsv_sug4=2106"
+              }
+            }
+          },
+          {
+            "id": "fa63ab391ba8b49f",
+            "type": "leaf",
+            "state": {
+              "type": "web-browser-view",
+              "state": {
+                "url": "https://zhuanlan.zhihu.com/p/334837986"
+              }
+            }
+          },
+          {
             "id": "cea875f5fdec6494",
             "type": "leaf",
             "state": {
@@ -31,7 +51,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -130,7 +151,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Bayesian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +167,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Bayesian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +188,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Concepts/Bayesian.md"
-              }
+              "state": {}
             }
           },
           {
@@ -216,15 +233,15 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "ba25804e38a68dc4",
+  "active": "fa63ab391ba8b49f",
   "lastOpenFiles": [
-    "Concepts/Acronyms.md",
+    "search.md",
     "Concepts/Bayesian.md",
+    "Concepts/Acronyms.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/frequentist.md",
     "Concepts/regularization.md",
     "Concepts/bootstrap.md",
-    "search.md",
     "Concepts/LASSO.md",
     "Concepts/ridge regression.md",
     "Essays/A Brief Introduction to Machine Learning for Engineers.pdf"

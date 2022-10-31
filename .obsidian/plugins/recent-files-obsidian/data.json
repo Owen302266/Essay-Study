@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "search",
+      "path": "search.md"
+    },
+    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "bootstrap",
       "path": "Concepts/bootstrap.md"
-    },
-    {
-      "basename": "search",
-      "path": "search.md"
     },
     {
       "basename": "LASSO",
