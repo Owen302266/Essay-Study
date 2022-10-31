@@ -11,8 +11,9 @@ MAP : same variance for all values of x
 Bayesian : 
 	1. uneven distribution of x
 	2. Values of x closer to the existing points in the training sets generally exhibit a smaller variance.
-
-
+ML:
+connections:
+	N enough, $w_{M A P} \rightarrow w_{M L}$
 
 
 
