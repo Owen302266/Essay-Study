@@ -5,6 +5,10 @@
       "path": "Concepts/Bayesian.md"
     },
     {
+      "basename": "alpha parameter",
+      "path": "Concepts/alpha parameter.md"
+    },
+    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
