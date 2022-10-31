@@ -15,6 +15,17 @@ ML:
 connections:
 	N enough, $w_{M A P} \rightarrow w_{M L}$
 
+[[Marginal Likelihood]]
+
+In Bayesian, increasing M may yield a smaller marginal likelihood.
+
+In ML, MAP, a larger M implies a more “spread-out” prior distribution of the weights, which may result in a more diﬀuse distribution of the labels
+
+
+
+
+
+
 
 
 
