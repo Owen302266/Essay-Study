@@ -7,6 +7,8 @@ so we assume that the joint distribution is known in Bayesian model
 
 **ML&MAP vs Bayesian:**
 
+hyperparameters need to be selected
+
 MAP : same variance for all values of x
 Bayesian : 
 	1. uneven distribution of x
@@ -21,10 +23,11 @@ In Bayesian, increasing M may yield a smaller marginal likelihood.
 
 In ML, MAP, a larger M implies a more “spread-out” prior distribution of the weights, which may result in a more diﬀuse distribution of the labels
 
-[[alpha parameter]]
+[[alpha parameter]] 
 
+[[empirical Bayesian]]
 
-
+[[Minimum Description Length]] (MDL)
 
 
 

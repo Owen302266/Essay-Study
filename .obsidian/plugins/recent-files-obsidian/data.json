@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Minimum Description Length",
+      "path": "Minimum Description Length.md"
+    },
+    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
+    },
+    {
+      "basename": "empirical Bayesian",
+      "path": "empirical Bayesian.md"
     },
     {
       "basename": "alpha parameter",
