@@ -27,7 +27,7 @@ In ML, MAP, a larger M implies a more “spread-out” prior distribution of the
 
 [[empirical Bayesian]]
 
-[[Minimum Description Length]] (MDL)
+[[Minimum Description Length]] *(MDL)*
 
 
 

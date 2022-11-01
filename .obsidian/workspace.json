@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Minimum Description Length.md",
+                "file": "Concepts/Bayesian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Minimum Description Length.md",
+                "file": "Concepts/Bayesian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Minimum Description Length.md"
+                "file": "Concepts/Bayesian.md"
               }
             }
           },
@@ -229,11 +228,11 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "73731ae74403f99e",
+  "active": "ba25804e38a68dc4",
   "lastOpenFiles": [
-    "Concepts/Occam’s razor.md",
-    "Concepts/Minimum Description Length.md",
     "Concepts/Acronyms.md",
+    "Concepts/Minimum Description Length.md",
+    "Concepts/Occam’s razor.md",
     "Concepts/Bayesian.md",
     "Concepts/empirical Bayesian.md",
     "Concepts/alpha parameter.md",
