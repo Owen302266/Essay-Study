@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "information-theoretic metrics",
+      "path": "Concepts/information-theoretic metrics.md"
+    },
+    {
+      "basename": "Minimum Description Length",
+      "path": "Concepts/Minimum Description Length.md"
+    },
+    {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "Acronyms",
       "path": "Concepts/Acronyms.md"
-    },
-    {
-      "basename": "Minimum Description Length",
-      "path": "Concepts/Minimum Description Length.md"
     },
     {
       "basename": "Occam’s razor",
@@ -23,10 +31,6 @@
     {
       "basename": "alpha parameter",
       "path": "Concepts/alpha parameter.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "frequentist",
@@ -83,10 +87,6 @@
     {
       "basename": "Day Planner-20221026",
       "path": "Day Planners/Day Planner-20221026.md"
-    },
-    {
-      "basename": "information-theoretic metrics",
-      "path": "Concepts/information-theoretic metrics.md"
     },
     {
       "basename": "MDL learning approaches",
