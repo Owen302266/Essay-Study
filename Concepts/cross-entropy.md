@@ -1,0 +1,1 @@
+Unlike the KL divergence, cross-entropy can be negative.

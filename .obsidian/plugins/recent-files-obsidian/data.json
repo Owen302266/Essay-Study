@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "KL divergence",
+      "path": "Concepts/KL divergence.md"
+    },
+    {
+      "basename": "cross-entropy",
+      "path": "Concepts/cross-entropy.md"
+    },
+    {
       "basename": "information-theoretic metrics",
       "path": "Concepts/information-theoretic metrics.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
+      "basename": "Gibbs’ inequality",
+      "path": "Concepts/Gibbs’ inequality.md"
+    },
+    {
+      "basename": "law of large numbers",
+      "path": "Concepts/law of large numbers.md"
     },
     {
       "basename": "Minimum Description Length",
@@ -15,10 +35,6 @@
     {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "Occam’s razor",
