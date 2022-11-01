@@ -1,0 +1,1 @@
+choose the model that yields the simplest explanation of the data

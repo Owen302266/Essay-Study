@@ -2,7 +2,11 @@
   "recentFiles": [
     {
       "basename": "Minimum Description Length",
-      "path": "Minimum Description Length.md"
+      "path": "Concepts/Minimum Description Length.md"
+    },
+    {
+      "basename": "Occam’s razor",
+      "path": "Concepts/Occam’s razor.md"
     },
     {
       "basename": "Acronyms",
@@ -14,7 +18,7 @@
     },
     {
       "basename": "empirical Bayesian",
-      "path": "empirical Bayesian.md"
+      "path": "Concepts/empirical Bayesian.md"
     },
     {
       "basename": "alpha parameter",

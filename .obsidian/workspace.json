@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Minimum Description Length.md",
+                "file": "Concepts/Minimum Description Length.md",
                 "mode": "source",
                 "source": false
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Minimum Description Length.md",
+                "file": "Concepts/Minimum Description Length.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Minimum Description Length.md",
+                "file": "Concepts/Minimum Description Length.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Minimum Description Length.md"
+                "file": "Concepts/Minimum Description Length.md"
               }
             }
           },
@@ -231,15 +231,15 @@
   },
   "active": "73731ae74403f99e",
   "lastOpenFiles": [
+    "Concepts/Occam’s razor.md",
+    "Concepts/Minimum Description Length.md",
     "Concepts/Acronyms.md",
-    "Minimum Description Length.md",
     "Concepts/Bayesian.md",
-    "empirical Bayesian.md",
+    "Concepts/empirical Bayesian.md",
     "Concepts/alpha parameter.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/frequentist.md",
     "Concepts/supervised learning.md",
-    "Concepts/inductive bias.md",
-    "Concepts/inference background.md"
+    "Concepts/inductive bias.md"
   ]
 }
