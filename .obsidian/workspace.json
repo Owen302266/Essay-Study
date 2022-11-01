@@ -231,6 +231,8 @@
   },
   "active": "73731ae74403f99e",
   "lastOpenFiles": [
+    "Concepts/Acronyms.md",
+    "Minimum Description Length.md",
     "Concepts/Bayesian.md",
     "empirical Bayesian.md",
     "Concepts/alpha parameter.md",
@@ -238,8 +240,6 @@
     "Concepts/frequentist.md",
     "Concepts/supervised learning.md",
     "Concepts/inductive bias.md",
-    "Concepts/inference background.md",
-    "Concepts/optimal prediction.md",
-    "Concepts/Marginal Likelihood.md"
+    "Concepts/inference background.md"
   ]
 }

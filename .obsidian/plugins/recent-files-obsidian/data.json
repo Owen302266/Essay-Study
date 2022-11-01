@@ -5,6 +5,10 @@
       "path": "Minimum Description Length.md"
     },
     {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Marginal Likelihood",
       "path": "Concepts/Marginal Likelihood.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "search",
