@@ -5,7 +5,6 @@
 
 # [[Acronyms]]
 
-
 # Basic
 Rather than requiring a precise model of the set-up under study, machine learning requires the speciﬁcation of an objective, of a model to be trained, and of an optimization technique.
 
@@ -36,8 +35,34 @@ the approach has the key disadvantages of providing generally suboptimal perform
 	offline~online
 ### goals
 the importance of probability
+
 # Introduction through linear regression
-We start by introducing the problem of [[supervised learning]] and by presenting [[inference background]]. We then present the [[frequentist]], [[Bayesian]] and [[MDL learning approaches]] in this order. The treatment of MDL is limited to an introductory discussion, as the rest of monograph concentrates on frequentist and Bayesian viewpoints. We conclude with an introduction to the important topic of [[information-theoretic metrics]], and with a brief introduction to the advanced topics of [[causal inference and interpretation]].
+
+We start by introducing the problem of [[supervised learning]] and by presenting [[inference background]]. We then present the [[frequentist]], [[Bayesian]] and [[MDL learning approaches]] in this order. The treatment of MDL is limited to an introductory discussion, as the rest of monograph concentrates on frequentist and Bayesian viewpoints. We conclude with an introduction to the important topic of [[information-theoretic metrics]], and with a brief introduction to the advanced topics of [[interpretation and casualty]].
+
+# Probabilistic Models for Learning
+
+In this chapter, we introduce a family of probabilistic models, known as the exponential family, whose members are used as components in many of the most common probabilistic models and learning algorithms. 
+
+## Preliminaries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

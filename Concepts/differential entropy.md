@@ -1,0 +1,1 @@
+For discrete rvs, entropy might be negative, which is called differential entropy.
