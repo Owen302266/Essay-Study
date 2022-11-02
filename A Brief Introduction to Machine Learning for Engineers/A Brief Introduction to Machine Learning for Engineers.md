@@ -46,7 +46,10 @@ In this chapter, we introduce a family of probabilistic models, known as the exp
 
 ## Preliminaries
 
-
+| name       | translate |
+|:---------- |:--------- |
+| convex set | 凸集      |
+|            |           |
 
 
 

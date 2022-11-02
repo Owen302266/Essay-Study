@@ -199,7 +199,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       },
       {
         "id": "18899f8be2265a8f",
@@ -224,7 +224,7 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "0537b5b61075e3af",
+  "active": "c9605772a8c9b94e",
   "lastOpenFiles": [
     "Concepts/law of large numbers.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
