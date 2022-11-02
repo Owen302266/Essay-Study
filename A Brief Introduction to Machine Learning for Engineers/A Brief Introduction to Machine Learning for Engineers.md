@@ -58,6 +58,9 @@ In this chapter, we introduce a family of probabilistic models, known as the exp
 
 We introduce the exponential family of parametric probabilistic models. It includes Gaussian, Laplace, Gamma, Beta and Dirichlet pdfs, as well as Bernoulli, Categorical, multinomial, and Poisson pmfs.
 
+We often use unnormalized distribution, which might be easier to evaluate.
+
+
 
 
 
