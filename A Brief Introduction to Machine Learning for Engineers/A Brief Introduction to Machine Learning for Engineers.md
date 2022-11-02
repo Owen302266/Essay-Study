@@ -46,10 +46,26 @@ In this chapter, we introduce a family of probabilistic models, known as the exp
 
 ## Preliminaries
 
-| name       | translate |
-|:---------- |:--------- |
-| convex set | 凸集      |
-|            |           |
+| name                        | translate                                                                                           |
+|:--------------------------- |:--------------------------------------------------------------------------------------------------- |
+| convex set                  | 凸集                                                                                                |
+| convex optimization problem | 凸优化问题                                                                                          |
+| gradient                    | $\nabla f(x)=\left[\partial f(x) / \partial x_{1} \cdots \partial f(x) / \partial x_{D}\right]^{T}$ |
+| Hessian                     | $\nabla^{2} f(x)=\partial^{2} f(x) / \partial x_{i} \partial x_{j}$                                 |
+| sufficient statistic        | $\theta=f(x)$                                                                                       |
+
+##  The Exponential Family
+
+We introduce the exponential family of parametric probabilistic models. It includes Gaussian, Laplace, Gamma, Beta and Dirichlet pdfs, as well as Bernoulli, Categorical, multinomial, and Poisson pmfs.
+
+
+
+
+
+
+
+
+
 
 
 

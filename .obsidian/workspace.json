@@ -6,7 +6,7 @@
       {
         "id": "134dd6ae0fe7a800",
         "type": "tabs",
-        "dimension": 56.2192118226601,
+        "dimension": 56.18461538461539,
         "children": [
           {
             "id": "ba25804e38a68dc4",
@@ -25,7 +25,7 @@
       {
         "id": "4c1bef04468b95b6",
         "type": "tabs",
-        "dimension": 43.7807881773399,
+        "dimension": 43.815384615384616,
         "children": [
           {
             "id": "cea875f5fdec6494",
@@ -224,7 +224,7 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "c9605772a8c9b94e",
+  "active": "ba25804e38a68dc4",
   "lastOpenFiles": [
     "Concepts/law of large numbers.md",
     "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
