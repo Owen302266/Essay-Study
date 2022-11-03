@@ -1,20 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "Bayesian",
+      "path": "Concepts/Bayesian.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
-      "basename": "law of large numbers",
-      "path": "Concepts/law of large numbers.md"
+      "basename": "MDL learning approaches",
+      "path": "Concepts/MDL learning approaches.md"
+    },
+    {
+      "basename": "information-theoretic metrics",
+      "path": "Concepts/information-theoretic metrics.md"
     },
     {
       "basename": "interpretation and casualty",
       "path": "Concepts/interpretation and casualty.md"
     },
     {
-      "basename": "information-theoretic metrics",
-      "path": "Concepts/information-theoretic metrics.md"
+      "basename": "law of large numbers",
+      "path": "Concepts/law of large numbers.md"
     },
     {
       "basename": "differential entropy",
@@ -29,20 +41,12 @@
       "path": "Concepts/cross-entropy.md"
     },
     {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
-    },
-    {
       "basename": "Gibbs’ inequality",
       "path": "Concepts/Gibbs’ inequality.md"
     },
     {
       "basename": "Minimum Description Length",
       "path": "Concepts/Minimum Description Length.md"
-    },
-    {
-      "basename": "Bayesian",
-      "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "Occam’s razor",
@@ -111,10 +115,6 @@
     {
       "basename": "Day Planner-20221026",
       "path": "Day Planners/Day Planner-20221026.md"
-    },
-    {
-      "basename": "MDL learning approaches",
-      "path": "Concepts/MDL learning approaches.md"
     },
     {
       "basename": "Model parameters",
