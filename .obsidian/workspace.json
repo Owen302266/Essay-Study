@@ -6,7 +6,7 @@
       {
         "id": "4c1bef04468b95b6",
         "type": "tabs",
-        "dimension": 60.22167487684729,
+        "dimension": 62.12406015037594,
         "children": [
           {
             "id": "cea875f5fdec6494",
@@ -25,7 +25,7 @@
       {
         "id": "021db21f65b4fc09",
         "type": "tabs",
-        "dimension": 39.778325123152705,
+        "dimension": 37.87593984962406,
         "children": [
           {
             "id": "c65e714a37517302",
@@ -34,8 +34,8 @@
               "type": "markdown",
               "state": {
                 "file": "Concepts/Acronyms.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           }
