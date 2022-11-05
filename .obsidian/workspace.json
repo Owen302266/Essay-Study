@@ -36,7 +36,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -178,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -201,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md"
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
               }
             }
           },
@@ -249,6 +249,8 @@
   },
   "active": "7e7860009474a85f",
   "lastOpenFiles": [
+    "notes/Pasted image 20221105194359.png",
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "Concepts/Bayesian.md",
     "Concepts/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
@@ -256,8 +258,6 @@
     "Concepts/information-theoretic metrics.md",
     "Concepts/interpretation and casualty.md",
     "Concepts/law of large numbers.md",
-    "Concepts/causal inference and interpretation.md",
-    "Concepts/differential entropy.md",
-    "Concepts/KL divergence.md"
+    "Concepts/causal inference and interpretation.md"
   ]
 }
