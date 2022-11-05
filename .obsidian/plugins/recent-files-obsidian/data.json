@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
-    },
-    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
