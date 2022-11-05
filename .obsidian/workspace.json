@@ -19,8 +19,31 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7999f9961f7c8cc9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "book-view",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "7e7860009474a85f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "021db21f65b4fc09",
@@ -138,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Bayesian.md",
+                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +178,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Bayesian.md",
+                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +201,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Bayesian.md"
+                "file": "View Synthesis for Recognizing Unseen Poses of Object Classes.md"
               }
             }
           },
@@ -224,11 +247,11 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "0537b5b61075e3af",
+  "active": "7e7860009474a85f",
   "lastOpenFiles": [
     "Concepts/Bayesian.md",
     "Concepts/Acronyms.md",
-    "A Brief Introduction to Machine Learning for Engineers/A Brief Introduction to Machine Learning for Engineers.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/MDL learning approaches.md",
     "Concepts/information-theoretic metrics.md",
     "Concepts/interpretation and casualty.md",
