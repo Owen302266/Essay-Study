@@ -6,7 +6,6 @@
       {
         "id": "4c1bef04468b95b6",
         "type": "tabs",
-        "dimension": 62.12406015037593,
         "children": [
           {
             "id": "7e7860009474a85f",
@@ -43,28 +42,21 @@
                 "source": false
               }
             }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "021db21f65b4fc09",
-        "type": "tabs",
-        "dimension": 37.87593984962406,
-        "children": [
+          },
           {
-            "id": "c65e714a37517302",
+            "id": "adedaf5d86d859a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Acronyms.md",
-                "mode": "preview",
-                "source": true
+                "file": "AlexNet.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -163,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
+                "file": "AlexNet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
+                "file": "AlexNet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
+                "file": "AlexNet.md"
               }
             }
           },
@@ -249,17 +241,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "824b4c56df8e04f9",
+  "active": "adedaf5d86d859a4",
   "lastOpenFiles": [
-    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
+    "AlexNet.md",
     "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
+    "Concepts/upsample.md",
+    "Concepts/feature map.md",
+    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "Concepts/Bayesian.md",
     "notes/Pasted image 20221105194359.png",
     "Concepts/Acronyms.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "Concepts/MDL learning approaches.md",
-    "Concepts/information-theoretic metrics.md",
-    "Concepts/interpretation and casualty.md"
+    "notes/A Brief Introduction to Machine Learning for Engineers.md"
   ]
 }
