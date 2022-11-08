@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aee6064003f4f0c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "021db21f65b4fc09",
@@ -138,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +168,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +191,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
+                "file": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
               }
             }
           },
@@ -224,10 +237,10 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "7e7860009474a85f",
+  "active": "aee6064003f4f0c4",
   "lastOpenFiles": [
-    "Concepts/Bayesian.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "Concepts/Bayesian.md",
     "notes/Pasted image 20221105194359.png",
     "Concepts/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
