@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "View Synthesis for Recognizing Unseen Poses of Object Classes",
-      "path": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
-    },
-    {
-      "basename": "2022-11-09",
-      "path": "2022-11-09.md"
-    },
-    {
       "basename": "template",
       "path": "notes/template.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
+      "basename": "未命名 2",
+      "path": "未命名 2.md"
     },
     {
       "basename": "未命名",
@@ -19,6 +19,10 @@
     {
       "basename": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry",
       "path": "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
+    },
+    {
+      "basename": "View Synthesis for Recognizing Unseen Poses of Object Classes",
+      "path": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
     },
     {
       "basename": "upsample",
@@ -195,10 +199,6 @@
     {
       "basename": "Model parameters",
       "path": "Model parameters.md"
-    },
-    {
-      "basename": "Pasted image 20221023100229",
-      "path": "讲座/智能科学与技术前沿学科论坛会议/figure/Pasted image 20221023100229.png"
     }
   ],
   "omittedPaths": [],

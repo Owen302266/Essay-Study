@@ -8,19 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "adedaf5d86d859a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14bd282c98529c63",
+            "id": "da4d89f11b399e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "da4d89f11b399e0f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc7a31e8600a78bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2022-11-09.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "notes/template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+                "file": "notes/template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
+                "file": "notes/template.md"
               }
             }
           },
@@ -241,11 +204,17 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "0537b5b61075e3af",
+  "active": "da4d89f11b399e0f",
   "lastOpenFiles": [
+    "未命名 1.md",
+    "未命名 2.md",
     "notes/template.md",
     "未命名.md",
-    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "2022-11-09.md",
     "Concepts/upsample.md",
-    "notes/Siamese CNN-BiLS
+    "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+    "Concepts/Acronyms.md"
+  ]
+}
