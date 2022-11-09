@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "14bd282c98529c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da4d89f11b399e0f",
             "type": "leaf",
             "state": {
@@ -30,8 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc7a31e8600a78bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022-11-09.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -216,17 +241,11 @@
     "width": 275,
     "collapsed": true
   },
-  "active": "adedaf5d86d859a4",
+  "active": "0537b5b61075e3af",
   "lastOpenFiles": [
-    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+    "notes/template.md",
+    "未命名.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
     "Concepts/upsample.md",
-    "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
-    "Concepts/Acronyms.md",
-    "Concepts/AlexNet.md",
-    "Concepts/GAN.md",
-    "Concepts/feature map.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
-  ]
-}
+    "notes/Siamese CNN-BiLS
