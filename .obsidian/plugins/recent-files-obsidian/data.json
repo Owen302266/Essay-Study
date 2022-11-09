@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "template",
-      "path": "notes/template.md"
+      "basename": "数据读取",
+      "path": "数据读取.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
+      "basename": "名称概念",
+      "path": "Templates/名称概念.md"
     },
     {
-      "basename": "未命名 2",
-      "path": "未命名 2.md"
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.md"
+      "basename": "文献笔记",
+      "path": "Templates/文献笔记.md"
     },
     {
       "basename": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry",
@@ -195,10 +195,6 @@
     {
       "basename": "Generative probabilistic model",
       "path": "Generative probabilistic model.md"
-    },
-    {
-      "basename": "Model parameters",
-      "path": "Model parameters.md"
     }
   ],
   "omittedPaths": [],
