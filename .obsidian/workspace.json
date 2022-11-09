@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/upsample.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "43b4f9f666e66f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
+                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
               }
             }
           },
@@ -226,19 +213,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 275,
+    "collapsed": true
   },
-  "active": "43b4f9f666e66f38",
+  "active": "adedaf5d86d859a4",
   "lastOpenFiles": [
-    "Concepts/upsample.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
-    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
-    "Concepts/GAN.md",
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "Concepts/upsample.md",
+    "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+    "Concepts/Acronyms.md",
     "Concepts/AlexNet.md",
+    "Concepts/GAN.md",
     "Concepts/feature map.md",
-    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
-    "Concepts/Bayesian.md"
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
   ]
 }

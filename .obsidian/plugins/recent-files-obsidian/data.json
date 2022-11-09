@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning",
-      "path": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
-    },
-    {
-      "basename": "upsample",
-      "path": "Concepts/upsample.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
-    },
-    {
       "basename": "View Synthesis for Recognizing Unseen Poses of Object Classes",
       "path": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
     },
@@ -21,20 +9,36 @@
       "path": "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
     },
     {
-      "basename": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos",
-      "path": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
+      "basename": "upsample",
+      "path": "Concepts/upsample.md"
     },
     {
-      "basename": "GAN",
-      "path": "Concepts/GAN.md"
+      "basename": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning",
+      "path": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "AlexNet",
       "path": "Concepts/AlexNet.md"
     },
     {
+      "basename": "GAN",
+      "path": "Concepts/GAN.md"
+    },
+    {
       "basename": "feature map",
       "path": "Concepts/feature map.md"
+    },
+    {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos",
+      "path": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
     },
     {
       "basename": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
@@ -43,10 +47,6 @@
     {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "MDL learning approaches",
