@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "AlexNet",
-      "path": "AlexNet.md"
-    },
-    {
-      "basename": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos",
-      "path": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
+      "basename": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry",
+      "path": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
     },
     {
       "basename": "upsample",
       "path": "Concepts/upsample.md"
+    },
+    {
+      "basename": "GAN",
+      "path": "GAN.md"
+    },
+    {
+      "basename": "AlexNet",
+      "path": "Concepts/AlexNet.md"
+    },
+    {
+      "basename": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos",
+      "path": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
     },
     {
       "basename": "feature map",
@@ -191,14 +199,6 @@
     {
       "basename": "law of iterated expectations",
       "path": "Concepts/law of iterated expectations.md"
-    },
-    {
-      "basename": "no free lunch theorem",
-      "path": "Concepts/no free lunch theorem.md"
-    },
-    {
-      "basename": "README",
-      "path": "README.md"
     }
   ],
   "omittedPaths": [],

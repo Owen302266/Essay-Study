@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlexNet.md",
+                "file": "Concepts/upsample.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da4d89f11b399e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -155,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AlexNet.md",
+                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AlexNet.md",
+                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AlexNet.md"
+                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
               }
             }
           },
@@ -241,17 +253,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "adedaf5d86d859a4",
+  "active": "da4d89f11b399e0f",
   "lastOpenFiles": [
-    "AlexNet.md",
-    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
     "Concepts/upsample.md",
+    "GAN.md",
+    "Concepts/AlexNet.md",
+    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
     "Concepts/feature map.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "Concepts/Bayesian.md",
     "notes/Pasted image 20221105194359.png",
-    "Concepts/Acronyms.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    "Concepts/Acronyms.md"
   ]
 }
