@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7e7860009474a85f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aee6064003f4f0c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "824b4c56df8e04f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "adedaf5d86d859a4",
             "type": "leaf",
             "state": {
@@ -56,19 +20,31 @@
             }
           },
           {
+            "id": "43b4f9f666e66f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "da4d89f11b399e0f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+                "file": "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
+                "file": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
               }
             }
           },
@@ -227,8 +203,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "18899f8be2265a8f",
@@ -253,17 +228,17 @@
     "direction": "horizontal",
     "width": 275
   },
-  "active": "da4d89f11b399e0f",
+  "active": "43b4f9f666e66f38",
   "lastOpenFiles": [
     "Concepts/upsample.md",
-    "GAN.md",
-    "Concepts/AlexNet.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
     "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
+    "Concepts/GAN.md",
+    "Concepts/AlexNet.md",
     "Concepts/feature map.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
-    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
-    "Concepts/Bayesian.md",
-    "notes/Pasted image 20221105194359.png",
-    "Concepts/Acronyms.md"
+    "Concepts/Bayesian.md"
   ]
 }
