@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "数据读取",
-      "path": "数据读取.md"
+      "basename": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning",
+      "path": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
+    },
+    {
+      "basename": "View Synthesis for Recognizing Unseen Poses of Object Classes",
+      "path": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
+    },
+    {
+      "basename": "3D generic object categorization, localization and pose estimation",
+      "path": "notes/3D generic object categorization, localization and pose estimation.md"
+    },
+    {
+      "basename": "文献笔记",
+      "path": "Templates/文献笔记.md"
     },
     {
       "basename": "名称概念",
@@ -13,24 +25,16 @@
       "path": "Templates/论文十问.md"
     },
     {
-      "basename": "文献笔记",
-      "path": "Templates/文献笔记.md"
+      "basename": "数据读取",
+      "path": "数据读取.md"
     },
     {
       "basename": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry",
       "path": "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
     },
     {
-      "basename": "View Synthesis for Recognizing Unseen Poses of Object Classes",
-      "path": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
-    },
-    {
       "basename": "upsample",
       "path": "Concepts/upsample.md"
-    },
-    {
-      "basename": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning",
-      "path": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
     },
     {
       "basename": "Acronyms",

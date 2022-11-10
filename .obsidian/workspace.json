@@ -4,16 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "4c1bef04468b95b6",
+        "id": "d757b6fbf659b573",
         "type": "tabs",
+        "dimension": 75.78558225508318,
         "children": [
           {
-            "id": "218e0aa3d39683db",
+            "id": "f8d4fe381d0e1484",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据读取.md",
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "455c0c5ffb3911eb",
+        "type": "tabs",
+        "dimension": 24.214417744916823,
+        "children": [
+          {
+            "id": "6ffe5581379a9232",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/论文十问.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +138,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "数据读取.md",
-                "collapseAll": false,
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -135,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "数据读取.md",
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据读取.md"
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
               }
             }
           },
@@ -201,20 +221,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275,
-    "collapsed": true
+    "width": 275
   },
-  "active": "218e0aa3d39683db",
+  "active": "f8d4fe381d0e1484",
   "lastOpenFiles": [
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "notes/3D generic object categorization, localization and pose estimation.md",
+    "Templates/文献笔记.md",
     "Templates/名称概念.md",
     "Templates/论文十问.md",
     "数据读取.md",
-    "Templates/文献笔记.md",
     "啊实打实.md",
     "未命名 3.md",
     "未命名 1.md",
-    "未命名 2.md",
-    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
-    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
+    "未命名 2.md"
   ]
 }
