@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "数据读取.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "数据读取.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "数据读取.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
+                "file": "数据读取.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "f8d4fe381d0e1484",
   "lastOpenFiles": [
+    "数据读取.md",
+    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+    "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "notes/3D generic object categorization, localization and pose estimation.md",
     "Templates/文献笔记.md",
     "Templates/名称概念.md",
     "Templates/论文十问.md",
-    "数据读取.md",
-    "啊实打实.md",
-    "未命名 3.md",
-    "未命名 1.md",
-    "未命名 2.md"
+    "啊实打实.md"
   ]
 }
