@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
       "basename": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
       "path": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md"
+    },
+    {
+      "basename": "Perceptual Losses for Real-Time Style Transfer and Super-Resolution",
+      "path": "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md"
+    },
+    {
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
     },
     {
       "basename": "Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos",
@@ -37,10 +49,6 @@
       "path": "Templates/名称概念.md"
     },
     {
-      "basename": "论文十问",
-      "path": "Templates/论文十问.md"
-    },
-    {
       "basename": "upsample",
       "path": "Concepts/upsample.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "feature map",
       "path": "Concepts/feature map.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "Bayesian",
@@ -195,10 +199,6 @@
     {
       "basename": "Overﬁtting and Underﬁtting",
       "path": "Overﬁtting and Underﬁtting.md"
-    },
-    {
-      "basename": "Generative probabilistic model",
-      "path": "Generative probabilistic model.md"
     }
   ],
   "omittedPaths": [],
