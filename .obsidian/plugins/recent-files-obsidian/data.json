@@ -5,6 +5,10 @@
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
       "basename": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
       "path": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "upsample",
       "path": "Concepts/upsample.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "AlexNet",

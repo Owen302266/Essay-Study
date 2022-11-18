@@ -110,7 +110,7 @@
       {
         "id": "3282c109ed8f6830",
         "type": "tabs",
-        "dimension": 28.817733990147783,
+        "dimension": 28.81773399014778,
         "children": [
           {
             "id": "adfe36d19c34b626",
@@ -225,6 +225,8 @@
   },
   "active": "11788558236808e5",
   "lastOpenFiles": [
+    "Concepts/Acronyms.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
     "Templates/论文十问.md",
@@ -232,8 +234,6 @@
     "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "数据读取.md",
-    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
-    "notes/3D generic object categorization, localization and pose estimation.md",
-    "Templates/文献笔记.md"
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
   ]
 }
