@@ -60,7 +60,7 @@ We introduce the exponential family of parametric probabilistic models. It inclu
 
 We often use unnormalized distribution, which might be easier to evaluate.
 
-
+[[Koopman-Pitman-Darmois theorem]]
 
 
 

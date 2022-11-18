@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "75284546715b5fa0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Koopman-Pitman-Darmois theorem.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -118,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Koopman-Pitman-Darmois theorem.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Koopman-Pitman-Darmois theorem.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+                "file": "Koopman-Pitman-Darmois theorem.md"
               }
             }
           },
@@ -223,10 +236,10 @@
     "direction": "horizontal",
     "width": 657
   },
-  "active": "11788558236808e5",
+  "active": "75284546715b5fa0",
   "lastOpenFiles": [
-    "Concepts/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/Acronyms.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
     "Templates/论文十问.md",
