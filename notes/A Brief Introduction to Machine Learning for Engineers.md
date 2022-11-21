@@ -70,7 +70,7 @@ We will speciﬁcally proceed by ﬁrst introducing as preliminary material the 
 
 Discriminative models are arguably to be considered as setting the current state of the art on classification, including popular methods such as Support Vector Machine (SVM) and deep neural networks. Generative models are potentially more flexible and powerful as they allow to capture distinct class-dependent properties of the covariates x.
 
-
+[[Lagrange duality]]
 
 
 
