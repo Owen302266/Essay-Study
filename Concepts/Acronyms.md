@@ -24,7 +24,7 @@
 | ML                                                                     | Maximum Likelihood                                          |     |     |
 | MRF                                                                    | Markov Random Field                                         |     |     |
 | NLL                                                                    | Negative Log-Likelihood                                     |     |     |
-| [PAA](https://blog.csdn.net/jiangqixing0728/article/details/126505989) | Probabilistic Anchor Assignment                             |     |     |
+| [PAA](https://blog.csdn.net/jiangqixing0728/article/details/126505989) | Probabilistic Anchor Assignment                             | |
 | PAC                                                                    | Probably Approximately Correct                              |     |     |
 | pdf                                                                    | probability density function                                |     |     |
 | pmf                                                                    | probability mass function                                   |     |     |

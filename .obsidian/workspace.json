@@ -18,6 +18,18 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "262e2c7e2f8973c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Acronyms.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -225,12 +237,12 @@
   },
   "active": "11788558236808e5",
   "lastOpenFiles": [
-    "Lagrange duality.md",
+    "Concepts/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Lagrange duality.md",
     "数据读取.md",
     "Concepts/Stochastic Gradient Descent.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
-    "Concepts/Acronyms.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
     "Templates/论文十问.md",

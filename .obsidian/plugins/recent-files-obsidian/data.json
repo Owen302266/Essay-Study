@@ -5,6 +5,10 @@
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
       "basename": "Lagrange duality",
       "path": "Lagrange duality.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "Koopman-Pitman-Darmois theorem",
       "path": "Concepts/Koopman-Pitman-Darmois theorem.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
