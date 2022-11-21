@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Stochastic Gradient Descent",
-      "path": "Stochastic Gradient Descent.md"
-    },
-    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "Stochastic Gradient Descent",
+      "path": "Stochastic Gradient Descent.md"
     },
     {
       "basename": "Koopman-Pitman-Darmois theorem",

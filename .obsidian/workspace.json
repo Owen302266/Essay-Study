@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stochastic Gradient Descent.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stochastic Gradient Descent.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stochastic Gradient Descent.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Stochastic Gradient Descent.md"
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md"
               }
             }
           },
@@ -237,6 +237,7 @@
   },
   "active": "11788558236808e5",
   "lastOpenFiles": [
+    "Stochastic Gradient Descent.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Koopman-Pitman-Darmois theorem.md",
     "Concepts/Acronyms.md",
@@ -245,7 +246,6 @@
     "Templates/论文十问.md",
     "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
     "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
-    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
-    "数据读取.md"
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
   ]
 }
