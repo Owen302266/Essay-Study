@@ -62,11 +62,11 @@ We often use unnormalized distribution, which might be easier to evaluate.
 
 [[Koopman-Pitman-Darmois theorem]]
 
+## Classification
 
+We will speciﬁcally proceed by ﬁrst introducing as preliminary material the Stochastic Gradient Descent optimization method. Then, we will discuss deterministic and probabilistic discriminative models, and ﬁnally we will cover probabilistic generative models.
 
-
-
-
+[[Stochastic Gradient Descent]]
 
 
 

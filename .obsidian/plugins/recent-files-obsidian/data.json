@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Koopman-Pitman-Darmois theorem",
-      "path": "Koopman-Pitman-Darmois theorem.md"
+      "basename": "Stochastic Gradient Descent",
+      "path": "Stochastic Gradient Descent.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "Koopman-Pitman-Darmois theorem",
+      "path": "Koopman-Pitman-Darmois theorem.md"
     },
     {
       "basename": "Acronyms",
@@ -195,10 +199,6 @@
     {
       "basename": "智能科学与技术前沿学科论坛会议",
       "path": "讲座/智能科学与技术前沿学科论坛会议/智能科学与技术前沿学科论坛会议.md"
-    },
-    {
-      "basename": "NWPU_Conference20221023",
-      "path": "讲座/智能科学与技术前沿学科论坛会议/figure/NWPU_Conference20221023.jpg"
     }
   ],
   "omittedPaths": [],
