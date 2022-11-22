@@ -72,6 +72,8 @@ Discriminative models are arguably to be considered as setting the current state
 
 [[Lagrange duality]]
 
+## Statistical Learning Theory
+
 
 
 
