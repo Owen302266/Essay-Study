@@ -20,18 +20,19 @@
             }
           },
           {
-            "id": "262e2c7e2f8973c3",
+            "id": "1cf027c670a8e505",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Acronyms.md",
-                "mode": "preview",
+                "file": "SAR的抗干扰.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "SAR的抗干扰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "SAR的抗干扰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+                "file": "SAR的抗干扰.md"
               }
             }
           },
@@ -235,10 +236,10 @@
     "direction": "horizontal",
     "width": 657
   },
-  "active": "11788558236808e5",
+  "active": "1cf027c670a8e505",
   "lastOpenFiles": [
-    "Concepts/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/Acronyms.md",
     "Lagrange duality.md",
     "数据读取.md",
     "Concepts/Stochastic Gradient Descent.md",

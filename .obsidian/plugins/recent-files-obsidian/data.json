@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "SAR的抗干扰",
+      "path": "SAR的抗干扰.md"
+    },
+    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Overﬁtting and Underﬁtting",
       "path": "Concepts/Overﬁtting and Underﬁtting.md"
-    },
-    {
-      "basename": "Generative probabilistic model",
-      "path": "Concepts/Generative probabilistic model.md"
     }
   ],
   "omittedPaths": [],
