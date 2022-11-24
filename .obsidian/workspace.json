@@ -238,15 +238,15 @@
   },
   "active": "1cf027c670a8e505",
   "lastOpenFiles": [
+    "数据读取.md",
+    "SAR的抗干扰.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Acronyms.md",
     "Lagrange duality.md",
-    "数据读取.md",
     "Concepts/Stochastic Gradient Descent.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
-    "Templates/论文十问.md",
-    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
+    "Templates/论文十问.md"
   ]
 }
