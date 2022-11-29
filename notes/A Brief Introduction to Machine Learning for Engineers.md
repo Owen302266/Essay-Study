@@ -76,7 +76,7 @@ Discriminative models are arguably to be considered as setting the current state
 
 ## Unsupervised Learning
 
-
+[[Jensen’s inequality]]
 
 
 

@@ -235,17 +235,17 @@
     "direction": "horizontal",
     "width": 452
   },
-  "active": "11788558236808e5",
+  "active": "0537b5b61075e3af",
   "lastOpenFiles": [
+    "Concepts/Jensen’s inequality.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "SAR的抗干扰.md",
     "Concepts/Lagrange duality.md",
     "数据读取.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Acronyms.md",
     "Concepts/Stochastic Gradient Descent.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
-    "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
-    "Templates/论文十问.md"
+    "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md"
   ]
 }

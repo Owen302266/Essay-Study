@@ -5,6 +5,10 @@
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
+      "basename": "Jensen’s inequality",
+      "path": "Concepts/Jensen’s inequality.md"
+    },
+    {
       "basename": "SAR的抗干扰",
       "path": "SAR的抗干扰.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Model parameters",
       "path": "Concepts/Model parameters.md"
-    },
-    {
-      "basename": "Overﬁtting and Underﬁtting",
-      "path": "Concepts/Overﬁtting and Underﬁtting.md"
     }
   ],
   "omittedPaths": [],
