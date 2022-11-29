@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAR的抗干扰.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAR的抗干扰.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAR的抗干扰.md"
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md"
               }
             }
           },
@@ -236,13 +235,13 @@
     "direction": "horizontal",
     "width": 657
   },
-  "active": "1cf027c670a8e505",
+  "active": "11788558236808e5",
   "lastOpenFiles": [
-    "数据读取.md",
     "SAR的抗干扰.md",
+    "Concepts/Lagrange duality.md",
+    "数据读取.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Acronyms.md",
-    "Lagrange duality.md",
     "Concepts/Stochastic Gradient Descent.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
