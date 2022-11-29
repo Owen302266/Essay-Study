@@ -74,6 +74,8 @@ Discriminative models are arguably to be considered as setting the current state
 
 ## Statistical Learning Theory
 
+## Unsupervised Learning
+
 
 
 
