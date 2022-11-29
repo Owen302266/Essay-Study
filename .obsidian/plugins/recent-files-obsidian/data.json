@@ -5,12 +5,20 @@
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
-      "basename": "Jensen’s inequality",
-      "path": "Concepts/Jensen’s inequality.md"
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
+      "basename": "search",
+      "path": "search.md"
     },
     {
       "basename": "SAR的抗干扰",
       "path": "SAR的抗干扰.md"
+    },
+    {
+      "basename": "Jensen’s inequality",
+      "path": "Concepts/Jensen’s inequality.md"
     },
     {
       "basename": "Lagrange duality",
@@ -19,10 +27,6 @@
     {
       "basename": "数据读取",
       "path": "数据读取.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "Stochastic Gradient Descent",
@@ -163,10 +167,6 @@
     {
       "basename": "Marginal Likelihood",
       "path": "Concepts/Marginal Likelihood.md"
-    },
-    {
-      "basename": "search",
-      "path": "search.md"
     },
     {
       "basename": "regularization",
