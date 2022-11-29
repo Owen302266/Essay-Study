@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习",
+      "path": "机器学习.md"
+    },
+    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Day Planner-20221026",
       "path": "Day Planners/Day Planner-20221026.md"
-    },
-    {
-      "basename": "Model parameters",
-      "path": "Concepts/Model parameters.md"
     }
   ],
   "omittedPaths": [],
