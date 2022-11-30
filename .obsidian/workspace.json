@@ -38,7 +38,7 @@
               "type": "markdown",
               "state": {
                 "file": "Concepts/Acronyms.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -251,6 +251,7 @@
   "active": "58a20271c5c1e005",
   "lastOpenFiles": [
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "机器学习.md",
     "Concepts/Acronyms.md",
     "search.md",
     "SAR的抗干扰.md",
@@ -258,7 +259,6 @@
     "Concepts/Lagrange duality.md",
     "数据读取.md",
     "Concepts/Stochastic Gradient Descent.md",
-    "Concepts/Koopman-Pitman-Darmois theorem.md",
-    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md"
+    "Concepts/Koopman-Pitman-Darmois theorem.md"
   ]
 }
