@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器学习.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -183,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机器学习.md"
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md"
               }
             }
           },
@@ -248,10 +247,10 @@
     "direction": "horizontal",
     "width": 452
   },
-  "active": "58a20271c5c1e005",
+  "active": "11788558236808e5",
   "lastOpenFiles": [
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "机器学习.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Concepts/Acronyms.md",
     "search.md",
     "SAR的抗干扰.md",
