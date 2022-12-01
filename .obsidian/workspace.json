@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
+                "file": "Concepts/Bayesian.md",
                 "mode": "source",
                 "source": false
               }
@@ -74,7 +74,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#In",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -107,7 +107,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -162,7 +163,7 @@
               "state": {
                 "file": "机器学习.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -250,15 +251,15 @@
   },
   "active": "58a20271c5c1e005",
   "lastOpenFiles": [
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/Bayesian.md",
+    "Concepts/Marginal Likelihood.md",
     "机器学习.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Templates/论文十问.md",
     "search.md",
     "Concepts/Acronyms.md",
     "SAR的抗干扰.md",
     "Concepts/Jensen’s inequality.md",
-    "Concepts/Lagrange duality.md",
-    "数据读取.md",
-    "Concepts/Stochastic Gradient Descent.md",
-    "Concepts/Koopman-Pitman-Darmois theorem.md"
+    "Concepts/Lagrange duality.md"
   ]
 }
