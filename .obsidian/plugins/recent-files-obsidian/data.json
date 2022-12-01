@@ -5,12 +5,12 @@
       "path": "机器学习.md"
     },
     {
-      "basename": "search",
-      "path": "search.md"
-    },
-    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "search",
+      "path": "search.md"
     },
     {
       "basename": "Acronyms",
