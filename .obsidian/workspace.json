@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Bayesian.md",
+                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,8 +107,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -251,12 +250,12 @@
   },
   "active": "58a20271c5c1e005",
   "lastOpenFiles": [
-    "Concepts/Bayesian.md",
+    "Templates/论文十问.md",
     "机器学习.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/Bayesian.md",
     "Concepts/Acronyms.md",
     "Concepts/Marginal Likelihood.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "Templates/论文十问.md",
     "search.md",
     "SAR的抗干扰.md",
     "Concepts/Jensen’s inequality.md",

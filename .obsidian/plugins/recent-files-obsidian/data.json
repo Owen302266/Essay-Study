@@ -5,6 +5,14 @@
       "path": "机器学习.md"
     },
     {
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
+    },
+    {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "Marginal Likelihood",
       "path": "Concepts/Marginal Likelihood.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
-    },
-    {
-      "basename": "论文十问",
-      "path": "Templates/论文十问.md"
     },
     {
       "basename": "search",
