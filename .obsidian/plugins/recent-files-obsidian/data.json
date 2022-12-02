@@ -9,6 +9,10 @@
       "path": "Concepts/Bayesian.md"
     },
     {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
       "basename": "Marginal Likelihood",
       "path": "Concepts/Marginal Likelihood.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "search",
       "path": "search.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "SAR的抗干扰",

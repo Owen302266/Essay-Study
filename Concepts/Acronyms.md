@@ -7,7 +7,7 @@
 | ELBO                                                                   | Evidence Lower BOund                                        |     |     |
 | EM                                                                     | Expectation Maximization                                    |     |     |
 | ERM                                                                    | Empirical Risk Minimization                                 |     |     |
-| GAN                                                                    | Generative Adversarial Network                              |     |     |
+| [[GAN]]                                                                    | Generative Adversarial Network                              |     |     |
 | GLM                                                                    | Generalized Linear Model                                    |     |     |
 | HMM                                                                    | Hidden Markov Model                                         |     |     |
 | i.i.d.                                                                 | independent identically distributed                         |     |     |
