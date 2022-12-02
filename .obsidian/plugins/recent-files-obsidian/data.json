@@ -5,20 +5,24 @@
       "path": "机器学习.md"
     },
     {
-      "basename": "论文十问",
-      "path": "Templates/论文十问.md"
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
-      "basename": "Bayesian",
-      "path": "Concepts/Bayesian.md"
+      "basename": "Koopman-Pitman-Darmois theorem",
+      "path": "Concepts/Koopman-Pitman-Darmois theorem.md"
     },
     {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
+    },
+    {
+      "basename": "Bayesian",
+      "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "Marginal Likelihood",
@@ -47,10 +51,6 @@
     {
       "basename": "Stochastic Gradient Descent",
       "path": "Concepts/Stochastic Gradient Descent.md"
-    },
-    {
-      "basename": "Koopman-Pitman-Darmois theorem",
-      "path": "Concepts/Koopman-Pitman-Darmois theorem.md"
     },
     {
       "basename": "High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs",
