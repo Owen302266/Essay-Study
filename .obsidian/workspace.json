@@ -42,18 +42,6 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "dd6c9262dbba38fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Hoeffding不等式.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
         "currentTab": 1
@@ -258,15 +246,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 452
+    "width": 283
   },
   "active": "58a20271c5c1e005",
   "lastOpenFiles": [
-    "Concepts/cross-entropy.md",
-    "机器学习.md",
-    "Concepts/LASSO.md",
     "Concepts/Hoeffding不等式.md",
     "Concepts/Acronyms.md",
+    "机器学习.md",
+    "Concepts/LASSO.md",
+    "Concepts/cross-entropy.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Pasted image 20221204110949.png",
     "Concepts/Lagrange duality.md",

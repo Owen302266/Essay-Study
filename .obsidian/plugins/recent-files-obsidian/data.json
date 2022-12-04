@@ -5,20 +5,20 @@
       "path": "机器学习.md"
     },
     {
-      "basename": "cross-entropy",
-      "path": "Concepts/cross-entropy.md"
-    },
-    {
-      "basename": "LASSO",
-      "path": "Concepts/LASSO.md"
-    },
-    {
       "basename": "Hoeffding不等式",
       "path": "Concepts/Hoeffding不等式.md"
     },
     {
       "basename": "Acronyms",
       "path": "Concepts/Acronyms.md"
+    },
+    {
+      "basename": "LASSO",
+      "path": "Concepts/LASSO.md"
+    },
+    {
+      "basename": "cross-entropy",
+      "path": "Concepts/cross-entropy.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
