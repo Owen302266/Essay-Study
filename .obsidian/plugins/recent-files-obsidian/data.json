@@ -5,16 +5,20 @@
       "path": "机器学习.md"
     },
     {
+      "basename": "Hoeffding不等式",
+      "path": "Concepts/Hoeffding不等式.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
+    },
+    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "Lagrange duality",
       "path": "Concepts/Lagrange duality.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "Koopman-Pitman-Darmois theorem",
@@ -191,14 +195,6 @@
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "Essays/A Brief Introduction to Machine Learning for Engineers.pdf"
-    },
-    {
-      "basename": "AI+遥感会议",
-      "path": "讲座/AI+遥感会议/AI+遥感会议.md"
-    },
-    {
-      "basename": "Day Planner-20221026",
-      "path": "Day Planners/Day Planner-20221026.md"
     }
   ],
   "omittedPaths": [],
