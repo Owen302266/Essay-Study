@@ -262,15 +262,15 @@
   },
   "active": "58a20271c5c1e005",
   "lastOpenFiles": [
-    "Concepts/Hoeffding不等式.md",
+    "Concepts/cross-entropy.md",
     "机器学习.md",
+    "Concepts/LASSO.md",
+    "Concepts/Hoeffding不等式.md",
     "Concepts/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Pasted image 20221204110949.png",
     "Concepts/Lagrange duality.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
-    "Templates/论文十问.md",
-    "Concepts/Bayesian.md",
-    "Concepts/Marginal Likelihood.md"
+    "Templates/论文十问.md"
   ]
 }

@@ -5,6 +5,14 @@
       "path": "机器学习.md"
     },
     {
+      "basename": "cross-entropy",
+      "path": "Concepts/cross-entropy.md"
+    },
+    {
+      "basename": "LASSO",
+      "path": "Concepts/LASSO.md"
+    },
+    {
       "basename": "Hoeffding不等式",
       "path": "Concepts/Hoeffding不等式.md"
     },
@@ -133,10 +141,6 @@
       "path": "Concepts/KL divergence.md"
     },
     {
-      "basename": "cross-entropy",
-      "path": "Concepts/cross-entropy.md"
-    },
-    {
       "basename": "Gibbs’ inequality",
       "path": "Concepts/Gibbs’ inequality.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "bootstrap",
       "path": "Concepts/bootstrap.md"
-    },
-    {
-      "basename": "LASSO",
-      "path": "Concepts/LASSO.md"
     },
     {
       "basename": "ridge regression",
