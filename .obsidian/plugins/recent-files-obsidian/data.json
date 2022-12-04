@@ -5,12 +5,16 @@
       "path": "机器学习.md"
     },
     {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
-    },
-    {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "Lagrange duality",
+      "path": "Concepts/Lagrange duality.md"
+    },
+    {
+      "basename": "Acronyms",
+      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "Koopman-Pitman-Darmois theorem",
@@ -39,10 +43,6 @@
     {
       "basename": "Jensen’s inequality",
       "path": "Concepts/Jensen’s inequality.md"
-    },
-    {
-      "basename": "Lagrange duality",
-      "path": "Concepts/Lagrange duality.md"
     },
     {
       "basename": "数据读取",

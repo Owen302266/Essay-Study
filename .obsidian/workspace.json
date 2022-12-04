@@ -250,15 +250,15 @@
   },
   "active": "58a20271c5c1e005",
   "lastOpenFiles": [
-    "Concepts/Acronyms.md",
-    "机器学习.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "Concepts/Lagrange duality.md",
+    "机器学习.md",
+    "Concepts/Acronyms.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
     "Templates/论文十问.md",
     "Concepts/Bayesian.md",
     "Concepts/Marginal Likelihood.md",
     "search.md",
-    "SAR的抗干扰.md",
-    "Concepts/Jensen’s inequality.md"
+    "SAR的抗干扰.md"
   ]
 }
