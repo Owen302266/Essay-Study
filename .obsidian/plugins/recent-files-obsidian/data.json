@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Acronyms",
+      "path": "notes/Acronyms.md"
+    },
+    {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
       "basename": "机器学习",
-      "path": "机器学习.md"
+      "path": "notes/机器学习.md"
     },
     {
       "basename": "Hoeffding不等式",
       "path": "Concepts/Hoeffding不等式.md"
-    },
-    {
-      "basename": "Acronyms",
-      "path": "Concepts/Acronyms.md"
     },
     {
       "basename": "LASSO",
@@ -19,10 +23,6 @@
     {
       "basename": "cross-entropy",
       "path": "Concepts/cross-entropy.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
     },
     {
       "basename": "Lagrange duality",

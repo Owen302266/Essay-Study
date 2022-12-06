@@ -4,47 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f35efd98638913ef",
+        "id": "c3b13bc58f6f72c9",
         "type": "tabs",
         "children": [
           {
-            "id": "11788558236808e5",
+            "id": "16501d3e0f5d633f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/A Brief Introduction to Machine Learning for Engineers.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "58a20271c5c1e005",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器学习.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1cf027c670a8e505",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Concepts/Acronyms.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器学习.md",
+                "file": "notes/Acronyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器学习.md",
+                "file": "notes/Acronyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -183,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "机器学习.md"
+                "file": "notes/Acronyms.md"
               }
             }
           },
@@ -248,14 +219,14 @@
     "direction": "horizontal",
     "width": 283
   },
-  "active": "58a20271c5c1e005",
+  "active": "0537b5b61075e3af",
   "lastOpenFiles": [
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "notes/机器学习.md",
     "Concepts/Hoeffding不等式.md",
-    "Concepts/Acronyms.md",
-    "机器学习.md",
+    "notes/Acronyms.md",
     "Concepts/LASSO.md",
     "Concepts/cross-entropy.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "Pasted image 20221204110949.png",
     "Concepts/Lagrange duality.md",
     "Concepts/Koopman-Pitman-Darmois theorem.md",
