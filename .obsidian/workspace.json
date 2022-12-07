@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c3b13bc58f6f72c9",
+        "id": "68fa3a3177504e4a",
         "type": "tabs",
         "children": [
           {
-            "id": "16501d3e0f5d633f",
+            "id": "16eae4f132568715",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -114,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Acronyms.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Acronyms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -153,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "notes/Acronyms.md"
-              }
+              "state": {}
             }
           },
           {
@@ -219,12 +215,12 @@
     "direction": "horizontal",
     "width": 283
   },
-  "active": "0537b5b61075e3af",
+  "active": "16eae4f132568715",
   "lastOpenFiles": [
+    "notes/Acronyms.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "notes/机器学习.md",
     "Concepts/Hoeffding不等式.md",
-    "notes/Acronyms.md",
     "Concepts/LASSO.md",
     "Concepts/cross-entropy.md",
     "Pasted image 20221204110949.png",
