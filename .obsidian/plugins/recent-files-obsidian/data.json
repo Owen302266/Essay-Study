@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "机器学习",
+      "path": "notes/机器学习.md"
+    },
+    {
       "basename": "Acronyms",
       "path": "notes/Acronyms.md"
     },
     {
       "basename": "A Brief Introduction to Machine Learning for Engineers",
       "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
-    },
-    {
-      "basename": "机器学习",
-      "path": "notes/机器学习.md"
     },
     {
       "basename": "Hoeffding不等式",

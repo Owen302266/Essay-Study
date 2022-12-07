@@ -11,8 +11,12 @@
             "id": "16eae4f132568715",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/机器学习.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -114,6 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/机器学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,6 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/机器学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +157,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/机器学习.md"
+              }
             }
           },
           {
