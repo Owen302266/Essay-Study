@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/机器学习.md",
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
                 "mode": "preview",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/机器学习.md",
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/机器学习.md",
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/机器学习.md"
+                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
               }
             }
           },
@@ -225,15 +225,15 @@
   },
   "active": "16eae4f132568715",
   "lastOpenFiles": [
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+    "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
+    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
+    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
     "notes/Acronyms.md",
+    "notes/3D generic object categorization, localization and pose estimation.md",
     "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "notes/机器学习.md",
-    "Concepts/Hoeffding不等式.md",
-    "Concepts/LASSO.md",
-    "Concepts/cross-entropy.md",
-    "Pasted image 20221204110949.png",
-    "Concepts/Lagrange duality.md",
-    "Concepts/Koopman-Pitman-Darmois theorem.md",
-    "Templates/论文十问.md"
+    "notes/机器学习.md"
   ]
 }
