@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "0eec3080556b6f05",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.8"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +238,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0eec3080556b6f05",
+  "active": "16eae4f132568715",
   "lastOpenFiles": [
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
