@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "SAR的抗干扰",
+      "path": "SAR的抗干扰.md"
+    },
+    {
+      "basename": "search",
+      "path": "search.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning",
       "path": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
+    },
+    {
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
     },
     {
       "basename": "View Synthesis for Recognizing Unseen Poses of Object Classes",
@@ -61,24 +77,12 @@
       "path": "Concepts/Koopman-Pitman-Darmois theorem.md"
     },
     {
-      "basename": "论文十问",
-      "path": "Templates/论文十问.md"
-    },
-    {
       "basename": "Bayesian",
       "path": "Concepts/Bayesian.md"
     },
     {
       "basename": "Marginal Likelihood",
       "path": "Concepts/Marginal Likelihood.md"
-    },
-    {
-      "basename": "search",
-      "path": "search.md"
-    },
-    {
-      "basename": "SAR的抗干扰",
-      "path": "SAR的抗干扰.md"
     },
     {
       "basename": "Jensen’s inequality",

@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "68fa3a3177504e4a",
+        "id": "54455a4f9dc876c6",
         "type": "tabs",
         "children": [
           {
-            "id": "16eae4f132568715",
+            "id": "a7d0169fb61e1eac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c1851199ebc048e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAR的抗干扰.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -82,8 +95,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "4e94b2e5697c3be2",
@@ -111,7 +123,7 @@
       {
         "id": "3282c109ed8f6830",
         "type": "tabs",
-        "dimension": 28.81773399014778,
+        "dimension": 20.192307692307693,
         "children": [
           {
             "id": "adfe36d19c34b626",
@@ -119,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "SAR的抗干扰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +148,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+                "file": "SAR的抗干扰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -159,7 +171,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md"
+                "file": "SAR的抗干扰.md"
               }
             }
           },
@@ -185,7 +197,7 @@
       {
         "id": "cfbb0a8a2e90ea00",
         "type": "tabs",
-        "dimension": 49.01477832512315,
+        "dimension": 40.96153846153846,
         "children": [
           {
             "id": "6ffe5581379a9232",
@@ -204,7 +216,7 @@
       {
         "id": "18899f8be2265a8f",
         "type": "tabs",
-        "dimension": 22.167487684729064,
+        "dimension": 38.84615384615385,
         "children": [
           {
             "id": "80573d65debfac51",
@@ -222,7 +234,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283
+    "width": 485.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -239,17 +251,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7257f22b0aefd6dc",
+  "active": "0c1851199ebc048e",
   "lastOpenFiles": [
-    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
+    "search.md",
+    "SAR的抗干扰.md",
+    "未命名.md",
     "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
+    "Templates/论文十问.md",
+    "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md",
     "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
-    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
-    "notes/Acronyms.md",
-    "notes/3D generic object categorization, localization and pose estimation.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "notes/机器学习.md"
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md"
   ]
 }
