@@ -4772,7 +4772,7 @@ body.all-dark .print.theme-light,
 }
 
 .theme-light {
-  --background-primary: var(--background-primary-bg-4-bt,#ffffff);
+  --background-primary: var(--background-primary-bg-4-bt,#deebd4);
   --background-primary-alt: var(--background-primary-alt-bg-4-bt,#e9e9e9);
   --background-secondary: var(--background-secondary-bg-4-bt,#fcfcfc);
   --background-secondary-alt: var(--background-secondary-alt-bg-4-bt,#eeeeee);
