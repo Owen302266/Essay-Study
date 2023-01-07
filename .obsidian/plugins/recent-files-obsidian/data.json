@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
+    },
+    {
       "basename": "Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review",
       "path": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "search",
       "path": "search.md"
-    },
-    {
-      "basename": "论文十问",
-      "path": "Templates/论文十问.md"
     },
     {
       "basename": "Acronyms",
