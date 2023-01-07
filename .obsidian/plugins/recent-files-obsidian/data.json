@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "论文十问",
-      "path": "Templates/论文十问.md"
-    },
-    {
       "basename": "Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review",
       "path": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
+    },
+    {
+      "basename": "论文十问",
+      "path": "Templates/论文十问.md"
     },
     {
       "basename": "Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry",

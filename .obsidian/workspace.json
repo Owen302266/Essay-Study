@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/论文十问.md",
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/论文十问.md",
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/论文十问.md"
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
               }
             }
           },
@@ -238,8 +238,9 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "6ffe5581379a9232",
+  "active": "519dac6ef783922c",
   "lastOpenFiles": [
+    "Templates/论文十问.md",
     "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
     "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
@@ -248,7 +249,6 @@
     "notes/Siamese CNN-BiLSTM Architecture for 3D Shape Representation Learning.md",
     "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md",
     "SAR的抗干扰.md",
-    "search.md",
-    "未命名.md"
+    "search.md"
   ]
 }
