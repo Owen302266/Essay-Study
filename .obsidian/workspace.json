@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "54455a4f9dc876c6",
+        "id": "53ccc8826325d792",
         "type": "tabs",
         "children": [
           {
-            "id": "519dac6ef783922c",
+            "id": "446244add0cca043",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAR的抗干扰.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -118,7 +114,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAR的抗干扰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAR的抗干扰.md",
-                "linksCollapsed": false,
+                "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
             }
@@ -157,9 +151,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "SAR的抗干扰.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,7 +213,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 241.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -238,17 +230,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "519dac6ef783922c",
+  "active": "446244add0cca043",
   "lastOpenFiles": [
     "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
-    "Pasted image 20230111154110.png",
-    "Pasted image 20230111153724.png",
+    "SAR的抗干扰.md",
+    "Figures/SAR-ATR review/Pasted image 20230111154110.png",
+    "Figures/SAR-ATR review/Pasted image 20230111153724.png",
     "search.md",
-    "Pasted image 20230109142039.png",
+    "Figures/SAR-ATR review/Pasted image 20230109142039.png",
     "Templates/论文十问.md",
     "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
     "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
-    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md",
-    "notes/Perceptual Losses for Real-Time Style Transfer and Super-Resolution.md"
+    "notes/Identity from here, Pose from there， Selfsupervised Disentanglement and Generation of Objects using Unlabeled Videos.md"
   ]
 }
