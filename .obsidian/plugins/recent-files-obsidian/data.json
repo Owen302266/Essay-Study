@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "net validation",
+      "path": "experiments/MSTAR/net validation.md"
+    },
+    {
+      "basename": "网络测试结果统计",
+      "path": "Templates/网络测试结果统计.md"
+    },
+    {
+      "basename": "文献笔记",
+      "path": "Templates/文献笔记.md"
+    },
+    {
       "basename": "Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review",
       "path": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
     },
@@ -97,10 +109,6 @@
       "path": "Concepts/Stochastic Gradient Descent.md"
     },
     {
-      "basename": "文献笔记",
-      "path": "Templates/文献笔记.md"
-    },
-    {
       "basename": "名称概念",
       "path": "Templates/名称概念.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "bootstrap",
       "path": "Concepts/bootstrap.md"
-    },
-    {
-      "basename": "ridge regression",
-      "path": "Concepts/ridge regression.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "Essays/A Brief Introduction to Machine Learning for Engineers.pdf"
     }
   ],
   "omittedPaths": [],
