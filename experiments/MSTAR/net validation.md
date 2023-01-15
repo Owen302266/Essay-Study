@@ -167,3 +167,4 @@ def main():
 AconvNet的前四层+单层lstm+卷积层输出结果
 
 # 卷积+lstm+全连接层输出
+
