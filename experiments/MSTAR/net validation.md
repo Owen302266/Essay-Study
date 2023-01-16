@@ -482,20 +482,19 @@ def main():
 
     net.to(device)
 
-    outputs, b, c = net(a.to(device))
+    outputs = net(a.to(device))
 
     print(outputs.shape)
-
-    print(b.shape)
-
-    print(c.shape)
 ```
 
 **配置文件：**![[config-net3.json]]
 **训练结果：**![[history-net3.json]]
 前1000次：最高87.55%准确度
-继续训练1000epoch：90%
+继续训练1000epoch：
 
+Best accuracy at epoch=901 with 91.55% Final model is epoch=901 with accurayc=91.55% 
+Path=d:\GitHub\MSTAR-SOC\experiments/model/AConvNet-SOC\model-901.pth
+![[model-901.pth]]
 **结果图像：**
 
 ![[Pasted image 20230116142724.png]]
