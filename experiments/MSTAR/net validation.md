@@ -494,13 +494,13 @@ def main():
 **配置文件：**![[config-net3.json]]
 **训练结果：**![[history-net3.json]]
 前1000次：最高87.55%准确度
-继续训练100epoch：90%
+继续训练1000epoch：90%
 
 **结果图像：**
 
-
+![[Pasted image 20230116142724.png]]
 
 **细节处理：**
 
-AconvNet的前四层+单层lstm+卷积层输出结果
+AconvNet的前四层+单层lstm+卷积层输出结果，1000epoch后继续训练
 
