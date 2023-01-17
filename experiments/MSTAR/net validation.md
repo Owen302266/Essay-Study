@@ -503,10 +503,13 @@ Path=d:\GitHub\MSTAR-SOC\experiments/model/AConvNet-SOC\model-901.pth
 
 AconvNet的前四层+单层lstm+卷积层输出结果，1000epoch后继续训练
 
+# 卷积层+三视角输入lstm+卷积层输出
 
 日期：2023-01-17  时间：10:10
 
 **训练样本：**
+
+50%random
 
 **网络结构：**
 ```python
@@ -515,10 +518,16 @@ AconvNet的前四层+单层lstm+卷积层输出结果，1000epoch后继续训练
 
 **配置文件：**
 
+![[config-net4.json]]
+
 **训练结果：**
+![[history-net4.json]]
 700epoch+1000epoch
 700：90.4%
-1700：
-
+1700：91.42%
+![[model-829.pth]]
+**结果图像：**
 ![[Pasted image 20230117101103.png]]
 **细节处理：**
+
+三视角输入卷积层
