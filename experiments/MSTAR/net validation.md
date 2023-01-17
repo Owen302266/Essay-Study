@@ -522,9 +522,10 @@ AconvNet的前四层+单层lstm+卷积层输出结果，1000epoch后继续训练
 
 **训练结果：**
 ![[history-net4.json]]
-700epoch+1000epoch
+700epoch+1000epoch+600epoach
 700：90.4%
 1700：91.42%
+2300：
 ![[model-829.pth]]
 **结果图像：**
 ![[Pasted image 20230117101103.png]]
