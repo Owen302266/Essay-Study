@@ -31,7 +31,6 @@
       {
         "id": "010930e9707ab5ed",
         "type": "tabs",
-        "dimension": 73.66504854368932,
         "children": [
           {
             "id": "0537b5b61075e3af",
@@ -81,14 +80,7 @@
               "type": "book-explorer-view",
               "state": {}
             }
-          }
-        ]
-      },
-      {
-        "id": "4e94b2e5697c3be2",
-        "type": "tabs",
-        "dimension": 26.334951456310684,
-        "children": [
+          },
           {
             "id": "7fd7244aca68e90c",
             "type": "leaf",
@@ -238,7 +230,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "182ca0b433a5adc4",
+  "active": "0537b5b61075e3af",
   "lastOpenFiles": [
     "experiments/MSTAR/Pasted image 20230117101103.png",
     "experiments/MSTAR/net validation.md",
