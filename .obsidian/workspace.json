@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "experiments/MSTAR/net validation.md",
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "mode": "source",
                 "source": false
               }
@@ -89,8 +89,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -111,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "experiments/MSTAR/net validation.md",
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "experiments/MSTAR/net validation.md",
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -151,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "experiments/MSTAR/net validation.md"
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
               }
             }
           },
@@ -231,17 +230,17 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "7fd7244aca68e90c",
+  "active": "182ca0b433a5adc4",
   "lastOpenFiles": [
-    "experiments/MSTAR/Pasted image 20230117101103.png",
+    "notes/Acronyms.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
     "experiments/MSTAR/net validation.md",
+    "experiments/MSTAR/Pasted image 20230117101103.png",
     "Templates/网络测试结果统计.md",
     "Templates/文献笔记.md",
     "history-net1.md",
     "history_net1.json.md",
     "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
-    "SAR的抗干扰.md",
-    "Figures/SAR-ATR review/Pasted image 20230111154110.png",
-    "Figures/SAR-ATR review/Pasted image 20230111153724.png"
+    "SAR的抗干扰.md"
   ]
 }
