@@ -89,7 +89,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -230,7 +231,7 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "0537b5b61075e3af",
+  "active": "7fd7244aca68e90c",
   "lastOpenFiles": [
     "experiments/MSTAR/Pasted image 20230117101103.png",
     "experiments/MSTAR/net validation.md",
