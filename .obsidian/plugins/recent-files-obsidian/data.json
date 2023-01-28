@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "2023-01-28",
+      "path": "2023-01-28.md"
+    },
+    {
       "basename": "Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review",
       "path": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "optimal prediction",
       "path": "Concepts/optimal prediction.md"
-    },
-    {
-      "basename": "regularization",
-      "path": "Concepts/regularization.md"
-    },
-    {
-      "basename": "bootstrap",
-      "path": "Concepts/bootstrap.md"
     }
   ],
   "omittedPaths": [],
