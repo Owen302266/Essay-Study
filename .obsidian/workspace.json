@@ -11,8 +11,12 @@
             "id": "64eb7c796df8f3e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -106,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +149,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
+              }
             }
           },
           {
