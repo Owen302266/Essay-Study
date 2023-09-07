@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
+                "file": "SAR的抗干扰.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
+                "file": "SAR的抗干扰.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
+                "file": "SAR的抗干扰.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md"
+                "file": "SAR的抗干扰.md"
               }
             }
           },
@@ -240,6 +240,7 @@
   },
   "active": "64eb7c796df8f3e0",
   "lastOpenFiles": [
+    "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
     "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
     "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
     "notes/Acronyms.md",
