@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
+                "file": "notes/3D generic object categorization, localization and pose estimation.md",
                 "mode": "source",
                 "source": false
               }
@@ -88,6 +88,14 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "28bc88010573c3f1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -110,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
+                "file": "notes/3D generic object categorization, localization and pose estimation.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
+                "file": "notes/3D generic object categorization, localization and pose estimation.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
+                "file": "notes/3D generic object categorization, localization and pose estimation.md"
               }
             }
           },
@@ -217,9 +225,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:新建白板": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
@@ -232,15 +240,19 @@
   },
   "active": "64eb7c796df8f3e0",
   "lastOpenFiles": [
-    "2023-01-28.md",
+    "Day Planners/Day Planner-20221207.md",
+    "experiments/MSTAR/net validation.md",
+    "experiments/MSTAR/Pasted image 20230116142724.png",
+    "Concepts/GAN.md",
+    "Concepts/frequentist.md",
+    "Concepts/Gaussian noise.md",
+    "Concepts/Discriminative probabilistic model.md",
+    "Concepts/cross-entropy.md",
+    "notes/机器学习.md",
     "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
+    "2023-01-28.md",
     "未命名.canvas",
     "notes/Acronyms.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md",
-    "experiments/MSTAR/net validation.md",
-    "experiments/MSTAR/Pasted image 20230117101103.png",
-    "Templates/网络测试结果统计.md",
-    "Templates/文献笔记.md",
-    "history-net1.md"
+    "notes/A Brief Introduction to Machine Learning for Engineers.md"
   ]
 }

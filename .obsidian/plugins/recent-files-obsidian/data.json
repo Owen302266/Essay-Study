@@ -1,20 +1,44 @@
 {
   "recentFiles": [
     {
+      "basename": "A Brief Introduction to Machine Learning for Engineers",
+      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    },
+    {
+      "basename": "3D generic object categorization, localization and pose estimation",
+      "path": "notes/3D generic object categorization, localization and pose estimation.md"
+    },
+    {
+      "basename": "GAN",
+      "path": "Concepts/GAN.md"
+    },
+    {
+      "basename": "frequentist",
+      "path": "Concepts/frequentist.md"
+    },
+    {
+      "basename": "Gaussian noise",
+      "path": "Concepts/Gaussian noise.md"
+    },
+    {
+      "basename": "Discriminative probabilistic model",
+      "path": "Concepts/Discriminative probabilistic model.md"
+    },
+    {
+      "basename": "cross-entropy",
+      "path": "Concepts/cross-entropy.md"
+    },
+    {
+      "basename": "机器学习",
+      "path": "notes/机器学习.md"
+    },
+    {
       "basename": "Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review",
       "path": "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md"
     },
     {
       "basename": "Acronyms",
       "path": "notes/Acronyms.md"
-    },
-    {
-      "basename": "A Brief Introduction to Machine Learning for Engineers",
-      "path": "notes/A Brief Introduction to Machine Learning for Engineers.md"
-    },
-    {
-      "basename": "net validation",
-      "path": "experiments/MSTAR/net validation.md"
     },
     {
       "basename": "网络测试结果统计",
@@ -61,24 +85,12 @@
       "path": "notes/View Synthesis for Recognizing Unseen Poses of Object Classes.md"
     },
     {
-      "basename": "3D generic object categorization, localization and pose estimation",
-      "path": "notes/3D generic object categorization, localization and pose estimation.md"
-    },
-    {
-      "basename": "机器学习",
-      "path": "notes/机器学习.md"
-    },
-    {
       "basename": "Hoeffding不等式",
       "path": "Concepts/Hoeffding不等式.md"
     },
     {
       "basename": "LASSO",
       "path": "Concepts/LASSO.md"
-    },
-    {
-      "basename": "cross-entropy",
-      "path": "Concepts/cross-entropy.md"
     },
     {
       "basename": "Lagrange duality",
@@ -119,10 +131,6 @@
     {
       "basename": "AlexNet",
       "path": "Concepts/AlexNet.md"
-    },
-    {
-      "basename": "GAN",
-      "path": "Concepts/GAN.md"
     },
     {
       "basename": "feature map",
@@ -173,10 +181,6 @@
       "path": "Concepts/alpha parameter.md"
     },
     {
-      "basename": "frequentist",
-      "path": "Concepts/frequentist.md"
-    },
-    {
       "basename": "supervised learning",
       "path": "Concepts/supervised learning.md"
     },
@@ -187,10 +191,6 @@
     {
       "basename": "inference background",
       "path": "Concepts/inference background.md"
-    },
-    {
-      "basename": "optimal prediction",
-      "path": "Concepts/optimal prediction.md"
     }
   ],
   "omittedPaths": [],
