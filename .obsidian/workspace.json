@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/3D generic object categorization, localization and pose estimation.md",
+                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/3D generic object categorization, localization and pose estimation.md",
+                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/3D generic object categorization, localization and pose estimation.md",
+                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/3D generic object categorization, localization and pose estimation.md"
+                "file": "notes/High-Resolution Image Synthesis and Semantic Manipulation with Conditional GANs.md"
               }
             }
           },
@@ -240,6 +240,11 @@
   },
   "active": "64eb7c796df8f3e0",
   "lastOpenFiles": [
+    "notes/Deformable_Generator_Networks_Unsupervised_Disentanglement_of_Appearance_and_Geometry.md",
+    "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
+    "notes/Acronyms.md",
+    "notes/A Brief Introduction to Machine Learning for Engineers.md",
+    "notes/3D generic object categorization, localization and pose estimation.md",
     "Day Planners/Day Planner-20221207.md",
     "experiments/MSTAR/net validation.md",
     "experiments/MSTAR/Pasted image 20230116142724.png",
@@ -249,10 +254,7 @@
     "Concepts/Discriminative probabilistic model.md",
     "Concepts/cross-entropy.md",
     "notes/机器学习.md",
-    "notes/Automatic Target Recognition in Synthetic Aperture Radar Imagery-A State of the Art Review.md",
     "2023-01-28.md",
-    "未命名.canvas",
-    "notes/Acronyms.md",
-    "notes/A Brief Introduction to Machine Learning for Engineers.md"
+    "未命名.canvas"
   ]
 }
